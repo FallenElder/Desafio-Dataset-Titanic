@@ -1,0 +1,892 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,AgeGroup
+1,False,3rd class,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7.25,,Southampton,Young adult
+2,True,1st class,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,C85,Cherbourg,Adult
+3,True,3rd class,"Heikkinen, Miss. Laina",female,26.0,0,0,STON/O2. 3101282,7.925,,Southampton,Young adult
+4,True,1st class,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,53.1,C123,Southampton,Adult
+5,False,3rd class,"Allen, Mr. William Henry",male,35.0,0,0,373450,8.05,,Southampton,Adult
+6,False,3rd class,"Moran, Mr. James",male,25.0,0,0,330877,8.4583,,Queenstown,Young adult
+7,False,1st class,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,51.8625,E46,Southampton,Adult
+8,False,3rd class,"Palsson, Master. Gosta Leonard",male,2.0,3,1,349909,21.075,,Southampton,Infant
+9,True,3rd class,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,347742,11.1333,,Southampton,Young adult
+10,True,2nd class,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,237736,30.0708,,Cherbourg,Teenager
+11,True,3rd class,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,16.7,G6,Southampton,Infant
+12,True,1st class,"Bonnell, Miss. Elizabeth",female,58.0,0,0,113783,26.55,C103,Southampton,Adult
+13,False,3rd class,"Saundercock, Mr. William Henry",male,20.0,0,0,A/5. 2151,8.05,,Southampton,Young adult
+14,False,3rd class,"Andersson, Mr. Anders Johan",male,39.0,1,5,347082,31.275,,Southampton,Adult
+15,False,3rd class,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,350406,7.8542,,Southampton,Teenager
+16,True,2nd class,"Hewlett, Mrs. (Mary D Kingcome) ",female,55.0,0,0,248706,16.0,,Southampton,Adult
+17,False,3rd class,"Rice, Master. Eugene",male,2.0,4,1,382652,29.125,,Queenstown,Infant
+18,True,2nd class,"Williams, Mr. Charles Eugene",male,30.0,0,0,244373,13.0,,Southampton,Adult
+19,False,3rd class,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,345763,18.0,,Southampton,Adult
+20,True,3rd class,"Masselmani, Mrs. Fatima",female,21.5,0,0,2649,7.225,,Cherbourg,Young adult
+21,False,2nd class,"Fynney, Mr. Joseph J",male,35.0,0,0,239865,26.0,,Southampton,Adult
+22,True,2nd class,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,13.0,D56,Southampton,Adult
+23,True,3rd class,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,8.0292,,Queenstown,Teenager
+24,True,1st class,"Sloper, Mr. William Thompson",male,28.0,0,0,113788,35.5,A6,Southampton,Young adult
+25,False,3rd class,"Palsson, Miss. Torborg Danira",female,8.0,3,1,349909,21.075,,Southampton,Infant
+26,True,3rd class,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,31.3875,,Southampton,Adult
+27,False,3rd class,"Emir, Mr. Farred Chehab",male,25.0,0,0,2631,7.225,,Cherbourg,Young adult
+28,False,1st class,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,263.0,C23 C25 C27,Southampton,Young adult
+29,True,3rd class,"O'Dwyer, Miss. Ellen ""Nellie""",female,21.5,0,0,330959,7.8792,,Queenstown,Young adult
+30,False,3rd class,"Todoroff, Mr. Lalio",male,25.0,0,0,349216,7.8958,,Southampton,Young adult
+31,False,1st class,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,27.7208,,Cherbourg,Adult
+32,True,1st class,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,35.0,1,0,PC 17569,146.5208,B78,Cherbourg,Adult
+33,True,3rd class,"Glynn, Miss. Mary Agatha",female,21.5,0,0,335677,7.75,,Queenstown,Young adult
+34,False,2nd class,"Wheadon, Mr. Edward H",male,66.0,0,0,C.A. 24579,10.5,,Southampton,Elderly
+35,False,1st class,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,PC 17604,82.1708,,Cherbourg,Young adult
+36,False,1st class,"Holverson, Mr. Alexander Oskar",male,42.0,1,0,113789,52.0,,Southampton,Adult
+37,True,3rd class,"Mamee, Mr. Hanna",male,25.0,0,0,2677,7.2292,,Cherbourg,Young adult
+38,False,3rd class,"Cann, Mr. Ernest Charles",male,21.0,0,0,A./5. 2152,8.05,,Southampton,Young adult
+39,False,3rd class,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,345764,18.0,,Southampton,Young adult
+40,True,3rd class,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,11.2417,,Cherbourg,Teenager
+41,False,3rd class,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,9.475,,Southampton,Adult
+42,False,2nd class,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,11668,21.0,,Southampton,Young adult
+43,False,3rd class,"Kraeff, Mr. Theodor",male,25.0,0,0,349253,7.8958,,Cherbourg,Young adult
+44,True,2nd class,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,41.5792,,Cherbourg,Infant
+45,True,3rd class,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,7.8792,,Queenstown,Young adult
+46,False,3rd class,"Rogers, Mr. William John",male,25.0,0,0,S.C./A.4. 23567,8.05,,Southampton,Young adult
+47,False,3rd class,"Lennon, Mr. Denis",male,25.0,1,0,370371,15.5,,Queenstown,Young adult
+48,True,3rd class,"O'Driscoll, Miss. Bridget",female,21.5,0,0,14311,7.75,,Queenstown,Young adult
+49,False,3rd class,"Samaan, Mr. Youssef",male,25.0,2,0,2662,21.6792,,Cherbourg,Young adult
+50,False,3rd class,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,349237,17.8,,Southampton,Young adult
+51,False,3rd class,"Panula, Master. Juha Niilo",male,7.0,4,1,3101295,39.6875,,Southampton,Infant
+52,False,3rd class,"Nosworthy, Mr. Richard Cater",male,21.0,0,0,A/4. 39886,7.8,,Southampton,Young adult
+53,True,1st class,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,76.7292,D33,Cherbourg,Adult
+54,True,2nd class,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,2926,26.0,,Southampton,Young adult
+55,False,1st class,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,113509,61.9792,B30,Cherbourg,Elderly
+56,True,1st class,"Woolner, Mr. Hugh",male,40.0,0,0,19947,35.5,C52,Southampton,Adult
+57,True,2nd class,"Rugg, Miss. Emily",female,21.0,0,0,C.A. 31026,10.5,,Southampton,Young adult
+58,False,3rd class,"Novel, Mr. Mansouer",male,28.5,0,0,2697,7.2292,,Cherbourg,Young adult
+59,True,2nd class,"West, Miss. Constance Mirium",female,5.0,1,2,C.A. 34651,27.75,,Southampton,Infant
+60,False,3rd class,"Goodwin, Master. William Frederick",male,11.0,5,2,CA 2144,46.9,,Southampton,Infant
+61,False,3rd class,"Sirayanian, Mr. Orsen",male,22.0,0,0,2669,7.2292,,Cherbourg,Young adult
+62,True,1st class,"Icard, Miss. Amelie",female,38.0,0,0,113572,80.0,B28,Southampton,Adult
+63,False,1st class,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,36973,83.475,C83,Southampton,Adult
+64,False,3rd class,"Skoog, Master. Harald",male,4.0,3,2,347088,27.9,,Southampton,Infant
+65,False,1st class,"Stewart, Mr. Albert A",male,40.0,0,0,PC 17605,27.7208,,Cherbourg,Adult
+66,True,3rd class,"Moubarek, Master. Gerios",male,25.0,1,1,2661,15.2458,,Cherbourg,Young adult
+67,True,2nd class,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,C.A. 29395,10.5,F33,Southampton,Young adult
+68,False,3rd class,"Crease, Mr. Ernest James",male,19.0,0,0,S.P. 3464,8.1583,,Southampton,Young adult
+69,True,3rd class,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,3101281,7.925,,Southampton,Teenager
+70,False,3rd class,"Kink, Mr. Vincenz",male,26.0,2,0,315151,8.6625,,Southampton,Young adult
+71,False,2nd class,"Jenkin, Mr. Stephen Curnow",male,32.0,0,0,C.A. 33111,10.5,,Southampton,Adult
+72,False,3rd class,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,CA 2144,46.9,,Southampton,Teenager
+73,False,2nd class,"Hood, Mr. Ambrose Jr",male,21.0,0,0,S.O.C. 14879,73.5,,Southampton,Young adult
+74,False,3rd class,"Chronopoulos, Mr. Apostolos",male,26.0,1,0,2680,14.4542,,Cherbourg,Young adult
+75,True,3rd class,"Bing, Mr. Lee",male,32.0,0,0,1601,56.4958,,Southampton,Adult
+76,False,3rd class,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,348123,7.65,F G73,Southampton,Young adult
+77,False,3rd class,"Staneff, Mr. Ivan",male,25.0,0,0,349208,7.8958,,Southampton,Young adult
+78,False,3rd class,"Moutal, Mr. Rahamin Haim",male,25.0,0,0,374746,8.05,,Southampton,Young adult
+79,True,2nd class,"Caldwell, Master. Alden Gates",male,0.83,0,2,248738,29.0,,Southampton,Infant
+80,True,3rd class,"Dowdell, Miss. Elizabeth",female,30.0,0,0,364516,12.475,,Southampton,Adult
+81,False,3rd class,"Waelens, Mr. Achille",male,22.0,0,0,345767,9.0,,Southampton,Young adult
+82,True,3rd class,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,0,345779,9.5,,Southampton,Young adult
+83,True,3rd class,"McDermott, Miss. Brigdet Delia",female,21.5,0,0,330932,7.7875,,Queenstown,Young adult
+84,False,1st class,"Carrau, Mr. Francisco M",male,28.0,0,0,113059,47.1,,Southampton,Young adult
+85,True,2nd class,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,10.5,,Southampton,Teenager
+86,True,3rd class,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,3101278,15.85,,Southampton,Adult
+87,False,3rd class,"Ford, Mr. William Neal",male,16.0,1,3,W./C. 6608,34.375,,Southampton,Teenager
+88,False,3rd class,"Slocovski, Mr. Selman Francis",male,25.0,0,0,SOTON/OQ 392086,8.05,,Southampton,Young adult
+89,True,1st class,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,263.0,C23 C25 C27,Southampton,Young adult
+90,False,3rd class,"Celotti, Mr. Francesco",male,24.0,0,0,343275,8.05,,Southampton,Young adult
+91,False,3rd class,"Christmann, Mr. Emil",male,29.0,0,0,343276,8.05,,Southampton,Young adult
+92,False,3rd class,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,347466,7.8542,,Southampton,Young adult
+93,False,1st class,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,61.175,E31,Southampton,Adult
+94,False,3rd class,"Dean, Mr. Bertram Frank",male,26.0,1,2,C.A. 2315,20.575,,Southampton,Young adult
+95,False,3rd class,"Coxon, Mr. Daniel",male,59.0,0,0,364500,7.25,,Southampton,Adult
+96,False,3rd class,"Shorney, Mr. Charles Joseph",male,25.0,0,0,374910,8.05,,Southampton,Young adult
+97,False,1st class,"Goldschmidt, Mr. George B",male,71.0,0,0,PC 17754,34.6542,A5,Cherbourg,Elderly
+98,True,1st class,"Greenfield, Mr. William Bertram",male,23.0,0,1,PC 17759,63.3583,D10 D12,Cherbourg,Young adult
+99,True,2nd class,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,231919,23.0,,Southampton,Adult
+100,False,2nd class,"Kantor, Mr. Sinai",male,34.0,1,0,244367,26.0,,Southampton,Adult
+101,False,3rd class,"Petranec, Miss. Matilda",female,28.0,0,0,349245,7.8958,,Southampton,Young adult
+102,False,3rd class,"Petroff, Mr. Pastcho (""Pentcho"")",male,25.0,0,0,349215,7.8958,,Southampton,Young adult
+103,False,1st class,"White, Mr. Richard Frasar",male,21.0,0,1,35281,77.2875,D26,Southampton,Young adult
+104,False,3rd class,"Johansson, Mr. Gustaf Joel",male,33.0,0,0,7540,8.6542,,Southampton,Adult
+105,False,3rd class,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2,0,3101276,7.925,,Southampton,Adult
+106,False,3rd class,"Mionoff, Mr. Stoytcho",male,28.0,0,0,349207,7.8958,,Southampton,Young adult
+107,True,3rd class,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,343120,7.65,,Southampton,Young adult
+108,True,3rd class,"Moss, Mr. Albert Johan",male,25.0,0,0,312991,7.775,,Southampton,Young adult
+109,False,3rd class,"Rekic, Mr. Tido",male,38.0,0,0,349249,7.8958,,Southampton,Adult
+110,True,3rd class,"Moran, Miss. Bertha",female,21.5,1,0,371110,24.15,,Queenstown,Young adult
+111,False,1st class,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,110465,52.0,C110,Southampton,Adult
+112,False,3rd class,"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,,Cherbourg,Teenager
+113,False,3rd class,"Barton, Mr. David John",male,22.0,0,0,324669,8.05,,Southampton,Young adult
+114,False,3rd class,"Jussila, Miss. Katriina",female,20.0,1,0,4136,9.825,,Southampton,Young adult
+115,False,3rd class,"Attalah, Miss. Malake",female,17.0,0,0,2627,14.4583,,Cherbourg,Teenager
+116,False,3rd class,"Pekoniemi, Mr. Edvard",male,21.0,0,0,STON/O 2. 3101294,7.925,,Southampton,Young adult
+117,False,3rd class,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,,Queenstown,Elderly
+118,False,2nd class,"Turpin, Mr. William John Robert",male,29.0,1,0,11668,21.0,,Southampton,Young adult
+119,False,1st class,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,247.5208,B58 B60,Cherbourg,Young adult
+120,False,3rd class,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,2,347082,31.275,,Southampton,Infant
+121,False,2nd class,"Hickman, Mr. Stanley George",male,21.0,2,0,S.O.C. 14879,73.5,,Southampton,Young adult
+122,False,3rd class,"Moore, Mr. Leonard Charles",male,25.0,0,0,A4. 54510,8.05,,Southampton,Young adult
+123,False,2nd class,"Nasser, Mr. Nicholas",male,32.5,1,0,237736,30.0708,,Cherbourg,Adult
+124,True,2nd class,"Webber, Miss. Susan",female,32.5,0,0,27267,13.0,E101,Southampton,Adult
+125,False,1st class,"White, Mr. Percival Wayland",male,54.0,0,1,35281,77.2875,D26,Southampton,Adult
+126,True,3rd class,"Nicola-Yarred, Master. Elias",male,12.0,1,0,2651,11.2417,,Cherbourg,Infant
+127,False,3rd class,"McMahon, Mr. Martin",male,25.0,0,0,370372,7.75,,Queenstown,Young adult
+128,True,3rd class,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,C 17369,7.1417,,Southampton,Young adult
+129,True,3rd class,"Peter, Miss. Anna",female,21.5,1,1,2668,22.3583,F E69,Cherbourg,Young adult
+130,False,3rd class,"Ekstrom, Mr. Johan",male,45.0,0,0,347061,6.975,,Southampton,Adult
+131,False,3rd class,"Drazenoic, Mr. Jozef",male,33.0,0,0,349241,7.8958,,Cherbourg,Adult
+132,False,3rd class,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,0,SOTON/O.Q. 3101307,7.05,,Southampton,Young adult
+133,False,3rd class,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,0,A/5. 3337,14.5,,Southampton,Adult
+134,True,2nd class,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,228414,26.0,,Southampton,Young adult
+135,False,2nd class,"Sobey, Mr. Samuel James Hayden",male,25.0,0,0,C.A. 29178,13.0,,Southampton,Young adult
+136,False,2nd class,"Richard, Mr. Emile",male,23.0,0,0,SC/PARIS 2133,15.0458,,Cherbourg,Young adult
+137,True,1st class,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,11752,26.2833,D47,Southampton,Young adult
+138,False,1st class,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,113803,53.1,C123,Southampton,Adult
+139,False,3rd class,"Osen, Mr. Olaf Elon",male,16.0,0,0,7534,9.2167,,Southampton,Teenager
+140,False,1st class,"Giglio, Mr. Victor",male,24.0,0,0,PC 17593,79.2,B86,Cherbourg,Young adult
+141,False,3rd class,"Boulos, Mrs. Joseph (Sultana)",female,21.5,0,2,2678,15.2458,,Cherbourg,Young adult
+142,True,3rd class,"Nysten, Miss. Anna Sofia",female,22.0,0,0,347081,7.75,,Southampton,Young adult
+143,True,3rd class,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,STON/O2. 3101279,15.85,,Southampton,Young adult
+144,False,3rd class,"Burke, Mr. Jeremiah",male,19.0,0,0,365222,6.75,,Queenstown,Young adult
+145,False,2nd class,"Andrew, Mr. Edgardo Samuel",male,18.0,0,0,231945,11.5,,Southampton,Young adult
+146,False,2nd class,"Nicholls, Mr. Joseph Charles",male,19.0,1,1,C.A. 33112,36.75,,Southampton,Young adult
+147,True,3rd class,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,0,350043,7.7958,,Southampton,Young adult
+148,False,3rd class,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,W./C. 6608,34.375,,Southampton,Infant
+149,False,2nd class,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,26.0,F2,Southampton,Adult
+150,False,2nd class,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,244310,13.0,,Southampton,Adult
+151,False,2nd class,"Bateman, Rev. Robert James",male,51.0,0,0,S.O.P. 1166,12.525,,Southampton,Adult
+152,True,1st class,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,66.6,C2,Southampton,Young adult
+153,False,3rd class,"Meo, Mr. Alfonzo",male,55.5,0,0,A.5. 11206,8.05,,Southampton,Adult
+154,False,3rd class,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,14.5,,Southampton,Adult
+155,False,3rd class,"Olsen, Mr. Ole Martin",male,25.0,0,0,Fa 265302,7.3125,,Southampton,Young adult
+156,False,1st class,"Williams, Mr. Charles Duane",male,51.0,0,1,PC 17597,61.3792,,Cherbourg,Adult
+157,True,3rd class,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,35851,7.7333,,Queenstown,Teenager
+158,False,3rd class,"Corn, Mr. Harry",male,30.0,0,0,SOTON/OQ 392090,8.05,,Southampton,Adult
+159,False,3rd class,"Smiljanic, Mr. Mile",male,25.0,0,0,315037,8.6625,,Southampton,Young adult
+160,False,3rd class,"Sage, Master. Thomas Henry",male,25.0,8,2,CA. 2343,69.55,,Southampton,Young adult
+161,False,3rd class,"Cribb, Mr. John Hatfield",male,44.0,0,1,371362,16.1,,Southampton,Adult
+162,True,2nd class,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,0,C.A. 33595,15.75,,Southampton,Adult
+163,False,3rd class,"Bengtsson, Mr. John Viktor",male,26.0,0,0,347068,7.775,,Southampton,Young adult
+164,False,3rd class,"Calic, Mr. Jovo",male,17.0,0,0,315093,8.6625,,Southampton,Teenager
+165,False,3rd class,"Panula, Master. Eino Viljami",male,1.0,4,1,3101295,39.6875,,Southampton,Infant
+166,True,3rd class,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,363291,20.525,,Southampton,Infant
+167,True,1st class,"Chibnall, Mrs. (Edith Martha Bowerman)",female,35.0,0,1,113505,55.0,E33,Southampton,Adult
+168,False,3rd class,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1,4,347088,27.9,,Southampton,Adult
+169,False,1st class,"Baumann, Mr. John D",male,40.0,0,0,PC 17318,25.925,,Southampton,Adult
+170,False,3rd class,"Ling, Mr. Lee",male,28.0,0,0,1601,56.4958,,Southampton,Young adult
+171,False,1st class,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,111240,33.5,B19,Southampton,Elderly
+172,False,3rd class,"Rice, Master. Arthur",male,4.0,4,1,382652,29.125,,Queenstown,Infant
+173,True,3rd class,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,347742,11.1333,,Southampton,Infant
+174,False,3rd class,"Sivola, Mr. Antti Wilhelm",male,21.0,0,0,STON/O 2. 3101280,7.925,,Southampton,Young adult
+175,False,1st class,"Smith, Mr. James Clinch",male,56.0,0,0,17764,30.6958,A7,Cherbourg,Adult
+176,False,3rd class,"Klasen, Mr. Klas Albin",male,18.0,1,1,350404,7.8542,,Southampton,Young adult
+177,False,3rd class,"Lefebre, Master. Henry Forbes",male,25.0,3,1,4133,25.4667,,Southampton,Young adult
+178,False,1st class,"Isham, Miss. Ann Elizabeth",female,50.0,0,0,PC 17595,28.7125,C49,Cherbourg,Adult
+179,False,2nd class,"Hale, Mr. Reginald",male,30.0,0,0,250653,13.0,,Southampton,Adult
+180,False,3rd class,"Leonard, Mr. Lionel",male,36.0,0,0,LINE,0.0,,Southampton,Adult
+181,False,3rd class,"Sage, Miss. Constance Gladys",female,21.5,8,2,CA. 2343,69.55,,Southampton,Young adult
+182,False,2nd class,"Pernot, Mr. Rene",male,30.0,0,0,SC/PARIS 2131,15.05,,Cherbourg,Adult
+183,False,3rd class,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4,2,347077,31.3875,,Southampton,Infant
+184,True,2nd class,"Becker, Master. Richard F",male,1.0,2,1,230136,39.0,F4,Southampton,Infant
+185,True,3rd class,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,315153,22.025,,Southampton,Infant
+186,False,1st class,"Rood, Mr. Hugh Roscoe",male,40.0,0,0,113767,50.0,A32,Southampton,Adult
+187,True,3rd class,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,21.5,1,0,370365,15.5,,Queenstown,Young adult
+188,True,1st class,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,111428,26.55,,Southampton,Adult
+189,False,3rd class,"Bourke, Mr. John",male,40.0,1,1,364849,15.5,,Queenstown,Adult
+190,False,3rd class,"Turcin, Mr. Stjepan",male,36.0,0,0,349247,7.8958,,Southampton,Adult
+191,True,2nd class,"Pinsky, Mrs. (Rosa)",female,32.0,0,0,234604,13.0,,Southampton,Adult
+192,False,2nd class,"Carbines, Mr. William",male,19.0,0,0,28424,13.0,,Southampton,Young adult
+193,True,3rd class,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,0,350046,7.8542,,Southampton,Young adult
+194,True,2nd class,"Navratil, Master. Michel M",male,3.0,1,1,230080,26.0,F2,Southampton,Infant
+195,True,1st class,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,PC 17610,27.7208,B4,Cherbourg,Adult
+196,True,1st class,"Lurette, Miss. Elise",female,58.0,0,0,PC 17569,146.5208,B80,Cherbourg,Adult
+197,False,3rd class,"Mernagh, Mr. Robert",male,25.0,0,0,368703,7.75,,Queenstown,Young adult
+198,False,3rd class,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,1,4579,8.4042,,Southampton,Adult
+199,True,3rd class,"Madigan, Miss. Margaret ""Maggie""",female,21.5,0,0,370370,7.75,,Queenstown,Young adult
+200,False,2nd class,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,248747,13.0,,Southampton,Young adult
+201,False,3rd class,"Vande Walle, Mr. Nestor Cyriel",male,28.0,0,0,345770,9.5,,Southampton,Young adult
+202,False,3rd class,"Sage, Mr. Frederick",male,25.0,8,2,CA. 2343,69.55,,Southampton,Young adult
+203,False,3rd class,"Johanson, Mr. Jakob Alfred",male,34.0,0,0,3101264,6.4958,,Southampton,Adult
+204,False,3rd class,"Youseff, Mr. Gerious",male,45.5,0,0,2628,7.225,,Cherbourg,Adult
+205,True,3rd class,"Cohen, Mr. Gurshon ""Gus""",male,18.0,0,0,A/5 3540,8.05,,Southampton,Young adult
+206,False,3rd class,"Strom, Miss. Telma Matilda",female,2.0,0,1,347054,10.4625,G6,Southampton,Infant
+207,False,3rd class,"Backstrom, Mr. Karl Alfred",male,32.0,1,0,3101278,15.85,,Southampton,Adult
+208,True,3rd class,"Albimona, Mr. Nassef Cassem",male,26.0,0,0,2699,18.7875,,Cherbourg,Young adult
+209,True,3rd class,"Carr, Miss. Helen ""Ellen""",female,16.0,0,0,367231,7.75,,Queenstown,Teenager
+210,True,1st class,"Blank, Mr. Henry",male,40.0,0,0,112277,31.0,A31,Cherbourg,Adult
+211,False,3rd class,"Ali, Mr. Ahmed",male,24.0,0,0,SOTON/O.Q. 3101311,7.05,,Southampton,Young adult
+212,True,2nd class,"Cameron, Miss. Clear Annie",female,35.0,0,0,F.C.C. 13528,21.0,,Southampton,Adult
+213,False,3rd class,"Perkin, Mr. John Henry",male,22.0,0,0,A/5 21174,7.25,,Southampton,Young adult
+214,False,2nd class,"Givard, Mr. Hans Kristensen",male,30.0,0,0,250646,13.0,,Southampton,Adult
+215,False,3rd class,"Kiernan, Mr. Philip",male,25.0,1,0,367229,7.75,,Queenstown,Young adult
+216,True,1st class,"Newell, Miss. Madeleine",female,31.0,1,0,35273,113.275,D36,Cherbourg,Adult
+217,True,3rd class,"Honkanen, Miss. Eliina",female,27.0,0,0,STON/O2. 3101283,7.925,,Southampton,Young adult
+218,False,2nd class,"Jacobsohn, Mr. Sidney Samuel",male,42.0,1,0,243847,27.0,,Southampton,Adult
+219,True,1st class,"Bazzani, Miss. Albina",female,32.0,0,0,11813,76.2917,D15,Cherbourg,Adult
+220,False,2nd class,"Harris, Mr. Walter",male,30.0,0,0,W/C 14208,10.5,,Southampton,Adult
+221,True,3rd class,"Sunderland, Mr. Victor Francis",male,16.0,0,0,SOTON/OQ 392089,8.05,,Southampton,Teenager
+222,False,2nd class,"Bracken, Mr. James H",male,27.0,0,0,220367,13.0,,Southampton,Young adult
+223,False,3rd class,"Green, Mr. George Henry",male,51.0,0,0,21440,8.05,,Southampton,Adult
+224,False,3rd class,"Nenkoff, Mr. Christo",male,25.0,0,0,349234,7.8958,,Southampton,Young adult
+225,True,1st class,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,19943,90.0,C93,Southampton,Adult
+226,False,3rd class,"Berglund, Mr. Karl Ivar Sven",male,22.0,0,0,PP 4348,9.35,,Southampton,Young adult
+227,True,2nd class,"Mellors, Mr. William John",male,19.0,0,0,SW/PP 751,10.5,,Southampton,Young adult
+228,False,3rd class,"Lovell, Mr. John Hall (""Henry"")",male,20.5,0,0,A/5 21173,7.25,,Southampton,Young adult
+229,False,2nd class,"Fahlstrom, Mr. Arne Jonas",male,18.0,0,0,236171,13.0,,Southampton,Young adult
+230,False,3rd class,"Lefebre, Miss. Mathilde",female,21.5,3,1,4133,25.4667,,Southampton,Young adult
+231,True,1st class,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,36973,83.475,C83,Southampton,Adult
+232,False,3rd class,"Larsson, Mr. Bengt Edvin",male,29.0,0,0,347067,7.775,,Southampton,Young adult
+233,False,2nd class,"Sjostedt, Mr. Ernst Adolf",male,59.0,0,0,237442,13.5,,Southampton,Adult
+234,True,3rd class,"Asplund, Miss. Lillian Gertrud",female,5.0,4,2,347077,31.3875,,Southampton,Infant
+235,False,2nd class,"Leyson, Mr. Robert William Norman",male,24.0,0,0,C.A. 29566,10.5,,Southampton,Young adult
+236,False,3rd class,"Harknett, Miss. Alice Phoebe",female,21.5,0,0,W./C. 6609,7.55,,Southampton,Young adult
+237,False,2nd class,"Hold, Mr. Stephen",male,44.0,1,0,26707,26.0,,Southampton,Adult
+238,True,2nd class,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,0,2,C.A. 31921,26.25,,Southampton,Infant
+239,False,2nd class,"Pengelly, Mr. Frederick William",male,19.0,0,0,28665,10.5,,Southampton,Young adult
+240,False,2nd class,"Hunt, Mr. George Henry",male,33.0,0,0,SCO/W 1585,12.275,,Southampton,Adult
+241,False,3rd class,"Zabour, Miss. Thamine",female,21.5,1,0,2665,14.4542,,Cherbourg,Young adult
+242,True,3rd class,"Murphy, Miss. Katherine ""Kate""",female,21.5,1,0,367230,15.5,,Queenstown,Young adult
+243,False,2nd class,"Coleridge, Mr. Reginald Charles",male,29.0,0,0,W./C. 14263,10.5,,Southampton,Young adult
+244,False,3rd class,"Maenpaa, Mr. Matti Alexanteri",male,22.0,0,0,STON/O 2. 3101275,7.125,,Southampton,Young adult
+245,False,3rd class,"Attalah, Mr. Sleiman",male,30.0,0,0,2694,7.225,,Cherbourg,Adult
+246,False,1st class,"Minahan, Dr. William Edward",male,44.0,2,0,19928,90.0,C78,Queenstown,Adult
+247,False,3rd class,"Lindahl, Miss. Agda Thorilda Viktoria",female,25.0,0,0,347071,7.775,,Southampton,Young adult
+248,True,2nd class,"Hamalainen, Mrs. William (Anna)",female,24.0,0,2,250649,14.5,,Southampton,Young adult
+249,True,1st class,"Beckwith, Mr. Richard Leonard",male,37.0,1,1,11751,52.5542,D35,Southampton,Adult
+250,False,2nd class,"Carter, Rev. Ernest Courtenay",male,54.0,1,0,244252,26.0,,Southampton,Adult
+251,False,3rd class,"Reed, Mr. James George",male,25.0,0,0,362316,7.25,,Southampton,Young adult
+252,False,3rd class,"Strom, Mrs. Wilhelm (Elna Matilda Persson)",female,29.0,1,1,347054,10.4625,G6,Southampton,Young adult
+253,False,1st class,"Stead, Mr. William Thomas",male,62.0,0,0,113514,26.55,C87,Southampton,Elderly
+254,False,3rd class,"Lobb, Mr. William Arthur",male,30.0,1,0,A/5. 3336,16.1,,Southampton,Adult
+255,False,3rd class,"Rosblom, Mrs. Viktor (Helena Wilhelmina)",female,41.0,0,2,370129,20.2125,,Southampton,Adult
+256,True,3rd class,"Touma, Mrs. Darwis (Hanne Youssef Razi)",female,29.0,0,2,2650,15.2458,,Cherbourg,Young adult
+257,True,1st class,"Thorne, Mrs. Gertrude Maybelle",female,35.0,0,0,PC 17585,79.2,,Cherbourg,Adult
+258,True,1st class,"Cherry, Miss. Gladys",female,30.0,0,0,110152,86.5,B77,Southampton,Adult
+259,True,1st class,"Ward, Miss. Anna",female,35.0,0,0,PC 17755,512.3292,,Cherbourg,Adult
+260,True,2nd class,"Parrish, Mrs. (Lutie Davis)",female,50.0,0,1,230433,26.0,,Southampton,Adult
+261,False,3rd class,"Smith, Mr. Thomas",male,25.0,0,0,384461,7.75,,Queenstown,Young adult
+262,True,3rd class,"Asplund, Master. Edvin Rojj Felix",male,3.0,4,2,347077,31.3875,,Southampton,Infant
+263,False,1st class,"Taussig, Mr. Emil",male,52.0,1,1,110413,79.65,E67,Southampton,Adult
+264,False,1st class,"Harrison, Mr. William",male,40.0,0,0,112059,0.0,B94,Southampton,Adult
+265,False,3rd class,"Henry, Miss. Delia",female,21.5,0,0,382649,7.75,,Queenstown,Young adult
+266,False,2nd class,"Reeves, Mr. David",male,36.0,0,0,C.A. 17248,10.5,,Southampton,Adult
+267,False,3rd class,"Panula, Mr. Ernesti Arvid",male,16.0,4,1,3101295,39.6875,,Southampton,Teenager
+268,True,3rd class,"Persson, Mr. Ernst Ulrik",male,25.0,1,0,347083,7.775,,Southampton,Young adult
+269,True,1st class,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,PC 17582,153.4625,C125,Southampton,Adult
+270,True,1st class,"Bissette, Miss. Amelia",female,35.0,0,0,PC 17760,135.6333,C99,Southampton,Adult
+271,False,1st class,"Cairns, Mr. Alexander",male,40.0,0,0,113798,31.0,,Southampton,Adult
+272,True,3rd class,"Tornquist, Mr. William Henry",male,25.0,0,0,LINE,0.0,,Southampton,Young adult
+273,True,2nd class,"Mellinger, Mrs. (Elizabeth Anne Maidment)",female,41.0,0,1,250644,19.5,,Southampton,Adult
+274,False,1st class,"Natsch, Mr. Charles H",male,37.0,0,1,PC 17596,29.7,C118,Cherbourg,Adult
+275,True,3rd class,"Healy, Miss. Hanora ""Nora""",female,21.5,0,0,370375,7.75,,Queenstown,Young adult
+276,True,1st class,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,13502,77.9583,D7,Southampton,Elderly
+277,False,3rd class,"Lindblom, Miss. Augusta Charlotta",female,45.0,0,0,347073,7.75,,Southampton,Adult
+278,False,2nd class,"Parkes, Mr. Francis ""Frank""",male,30.0,0,0,239853,0.0,,Southampton,Adult
+279,False,3rd class,"Rice, Master. Eric",male,7.0,4,1,382652,29.125,,Queenstown,Infant
+280,True,3rd class,"Abbott, Mrs. Stanton (Rosa Hunt)",female,35.0,1,1,C.A. 2673,20.25,,Southampton,Adult
+281,False,3rd class,"Duane, Mr. Frank",male,65.0,0,0,336439,7.75,,Queenstown,Elderly
+282,False,3rd class,"Olsson, Mr. Nils Johan Goransson",male,28.0,0,0,347464,7.8542,,Southampton,Young adult
+283,False,3rd class,"de Pelsmaeker, Mr. Alfons",male,16.0,0,0,345778,9.5,,Southampton,Teenager
+284,True,3rd class,"Dorking, Mr. Edward Arthur",male,19.0,0,0,A/5. 10482,8.05,,Southampton,Young adult
+285,False,1st class,"Smith, Mr. Richard William",male,40.0,0,0,113056,26.0,A19,Southampton,Adult
+286,False,3rd class,"Stankovic, Mr. Ivan",male,33.0,0,0,349239,8.6625,,Cherbourg,Adult
+287,True,3rd class,"de Mulder, Mr. Theodore",male,30.0,0,0,345774,9.5,,Southampton,Adult
+288,False,3rd class,"Naidenoff, Mr. Penko",male,22.0,0,0,349206,7.8958,,Southampton,Young adult
+289,True,2nd class,"Hosono, Mr. Masabumi",male,42.0,0,0,237798,13.0,,Southampton,Adult
+290,True,3rd class,"Connolly, Miss. Kate",female,22.0,0,0,370373,7.75,,Queenstown,Young adult
+291,True,1st class,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,19877,78.85,,Southampton,Young adult
+292,True,1st class,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,11967,91.0792,B49,Cherbourg,Young adult
+293,False,2nd class,"Levy, Mr. Rene Jacques",male,36.0,0,0,SC/Paris 2163,12.875,D,Cherbourg,Adult
+294,False,3rd class,"Haas, Miss. Aloisia",female,24.0,0,0,349236,8.85,,Southampton,Young adult
+295,False,3rd class,"Mineff, Mr. Ivan",male,24.0,0,0,349233,7.8958,,Southampton,Young adult
+296,False,1st class,"Lewy, Mr. Ervin G",male,40.0,0,0,PC 17612,27.7208,,Cherbourg,Adult
+297,False,3rd class,"Hanna, Mr. Mansour",male,23.5,0,0,2693,7.2292,,Cherbourg,Young adult
+298,False,1st class,"Allison, Miss. Helen Loraine",female,2.0,1,2,113781,151.55,C22 C26,Southampton,Infant
+299,True,1st class,"Saalfeld, Mr. Adolphe",male,40.0,0,0,19988,30.5,C106,Southampton,Adult
+300,True,1st class,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,247.5208,B58 B60,Cherbourg,Adult
+301,True,3rd class,"Kelly, Miss. Anna Katherine ""Annie Kate""",female,21.5,0,0,9234,7.75,,Queenstown,Young adult
+302,True,3rd class,"McCoy, Mr. Bernard",male,25.0,2,0,367226,23.25,,Queenstown,Young adult
+303,False,3rd class,"Johnson, Mr. William Cahoone Jr",male,19.0,0,0,LINE,0.0,,Southampton,Young adult
+304,True,2nd class,"Keane, Miss. Nora A",female,28.0,0,0,226593,12.35,E101,Queenstown,Young adult
+305,False,3rd class,"Williams, Mr. Howard Hugh ""Harry""",male,25.0,0,0,A/5 2466,8.05,,Southampton,Young adult
+306,True,1st class,"Allison, Master. Hudson Trevor",male,0.92,1,2,113781,151.55,C22 C26,Southampton,Infant
+307,True,1st class,"Fleming, Miss. Margaret",female,35.0,0,0,17421,110.8833,,Cherbourg,Adult
+308,True,1st class,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,PC 17758,108.9,C65,Cherbourg,Teenager
+309,False,2nd class,"Abelson, Mr. Samuel",male,30.0,1,0,P/PP 3381,24.0,,Cherbourg,Adult
+310,True,1st class,"Francatelli, Miss. Laura Mabel",female,30.0,0,0,PC 17485,56.9292,E36,Cherbourg,Adult
+311,True,1st class,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,11767,83.1583,C54,Cherbourg,Young adult
+312,True,1st class,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherbourg,Young adult
+313,False,2nd class,"Lahtinen, Mrs. William (Anna Sylfven)",female,26.0,1,1,250651,26.0,,Southampton,Young adult
+314,False,3rd class,"Hendekovic, Mr. Ignjac",male,28.0,0,0,349243,7.8958,,Southampton,Young adult
+315,False,2nd class,"Hart, Mr. Benjamin",male,43.0,1,1,F.C.C. 13529,26.25,,Southampton,Adult
+316,True,3rd class,"Nilsson, Miss. Helmina Josefina",female,26.0,0,0,347470,7.8542,,Southampton,Young adult
+317,True,2nd class,"Kantor, Mrs. Sinai (Miriam Sternin)",female,24.0,1,0,244367,26.0,,Southampton,Young adult
+318,False,2nd class,"Moraweck, Dr. Ernest",male,54.0,0,0,29011,14.0,,Southampton,Adult
+319,True,1st class,"Wick, Miss. Mary Natalie",female,31.0,0,2,36928,164.8667,C7,Southampton,Adult
+320,True,1st class,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,16966,134.5,E34,Cherbourg,Adult
+321,False,3rd class,"Dennis, Mr. Samuel",male,22.0,0,0,A/5 21172,7.25,,Southampton,Young adult
+322,False,3rd class,"Danoff, Mr. Yoto",male,27.0,0,0,349219,7.8958,,Southampton,Young adult
+323,True,2nd class,"Slayter, Miss. Hilda Mary",female,30.0,0,0,234818,12.35,,Queenstown,Adult
+324,True,2nd class,"Caldwell, Mrs. Albert Francis (Sylvia Mae Harbaugh)",female,22.0,1,1,248738,29.0,,Southampton,Young adult
+325,False,3rd class,"Sage, Mr. George John Jr",male,25.0,8,2,CA. 2343,69.55,,Southampton,Young adult
+326,True,1st class,"Young, Miss. Marie Grice",female,36.0,0,0,PC 17760,135.6333,C32,Cherbourg,Adult
+327,False,3rd class,"Nysveen, Mr. Johan Hansen",male,61.0,0,0,345364,6.2375,,Southampton,Elderly
+328,True,2nd class,"Ball, Mrs. (Ada E Hall)",female,36.0,0,0,28551,13.0,D,Southampton,Adult
+329,True,3rd class,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,31.0,1,1,363291,20.525,,Southampton,Adult
+330,True,1st class,"Hippach, Miss. Jean Gertrude",female,16.0,0,1,111361,57.9792,B18,Cherbourg,Teenager
+331,True,3rd class,"McCoy, Miss. Agnes",female,21.5,2,0,367226,23.25,,Queenstown,Young adult
+332,False,1st class,"Partner, Mr. Austen",male,45.5,0,0,113043,28.5,C124,Southampton,Adult
+333,False,1st class,"Graham, Mr. George Edward",male,38.0,0,1,PC 17582,153.4625,C91,Southampton,Adult
+334,False,3rd class,"Vander Planke, Mr. Leo Edmondus",male,16.0,2,0,345764,18.0,,Southampton,Teenager
+335,True,1st class,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,35.0,1,0,PC 17611,133.65,,Southampton,Adult
+336,False,3rd class,"Denkoff, Mr. Mitto",male,25.0,0,0,349225,7.8958,,Southampton,Young adult
+337,False,1st class,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,66.6,C2,Southampton,Young adult
+338,True,1st class,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,16966,134.5,E40,Cherbourg,Adult
+339,True,3rd class,"Dahl, Mr. Karl Edwart",male,45.0,0,0,7598,8.05,,Southampton,Adult
+340,False,1st class,"Blackwell, Mr. Stephen Weart",male,45.0,0,0,113784,35.5,T,Southampton,Adult
+341,True,2nd class,"Navratil, Master. Edmond Roger",male,2.0,1,1,230080,26.0,F2,Southampton,Infant
+342,True,1st class,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,263.0,C23 C25 C27,Southampton,Young adult
+343,False,2nd class,"Collander, Mr. Erik Gustaf",male,28.0,0,0,248740,13.0,,Southampton,Young adult
+344,False,2nd class,"Sedgwick, Mr. Charles Frederick Waddington",male,25.0,0,0,244361,13.0,,Southampton,Young adult
+345,False,2nd class,"Fox, Mr. Stanley Hubert",male,36.0,0,0,229236,13.0,,Southampton,Adult
+346,True,2nd class,"Brown, Miss. Amelia ""Mildred""",female,24.0,0,0,248733,13.0,F33,Southampton,Young adult
+347,True,2nd class,"Smith, Miss. Marion Elsie",female,40.0,0,0,31418,13.0,,Southampton,Adult
+348,True,3rd class,"Davison, Mrs. Thomas Henry (Mary E Finck)",female,21.5,1,0,386525,16.1,,Southampton,Young adult
+349,True,3rd class,"Coutts, Master. William Loch ""William""",male,3.0,1,1,C.A. 37671,15.9,,Southampton,Infant
+350,False,3rd class,"Dimic, Mr. Jovan",male,42.0,0,0,315088,8.6625,,Southampton,Adult
+351,False,3rd class,"Odahl, Mr. Nils Martin",male,23.0,0,0,7267,9.225,,Southampton,Young adult
+352,False,1st class,"Williams-Lambert, Mr. Fletcher Fellows",male,40.0,0,0,113510,35.0,C128,Southampton,Adult
+353,False,3rd class,"Elias, Mr. Tannous",male,15.0,1,1,2695,7.2292,,Cherbourg,Teenager
+354,False,3rd class,"Arnold-Franchi, Mr. Josef",male,25.0,1,0,349237,17.8,,Southampton,Young adult
+355,False,3rd class,"Yousif, Mr. Wazli",male,25.0,0,0,2647,7.225,,Cherbourg,Young adult
+356,False,3rd class,"Vanden Steen, Mr. Leo Peter",male,28.0,0,0,345783,9.5,,Southampton,Young adult
+357,True,1st class,"Bowerman, Miss. Elsie Edith",female,22.0,0,1,113505,55.0,E33,Southampton,Young adult
+358,False,2nd class,"Funk, Miss. Annie Clemmer",female,38.0,0,0,237671,13.0,,Southampton,Adult
+359,True,3rd class,"McGovern, Miss. Mary",female,21.5,0,0,330931,7.8792,,Queenstown,Young adult
+360,True,3rd class,"Mockler, Miss. Helen Mary ""Ellie""",female,21.5,0,0,330980,7.8792,,Queenstown,Young adult
+361,False,3rd class,"Skoog, Mr. Wilhelm",male,40.0,1,4,347088,27.9,,Southampton,Adult
+362,False,2nd class,"del Carlo, Mr. Sebastiano",male,29.0,1,0,SC/PARIS 2167,27.7208,,Cherbourg,Young adult
+363,False,3rd class,"Barbara, Mrs. (Catherine David)",female,45.0,0,1,2691,14.4542,,Cherbourg,Adult
+364,False,3rd class,"Asim, Mr. Adola",male,35.0,0,0,SOTON/O.Q. 3101310,7.05,,Southampton,Adult
+365,False,3rd class,"O'Brien, Mr. Thomas",male,25.0,1,0,370365,15.5,,Queenstown,Young adult
+366,False,3rd class,"Adahl, Mr. Mauritz Nils Martin",male,30.0,0,0,C 7076,7.25,,Southampton,Adult
+367,True,1st class,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,110813,75.25,D37,Cherbourg,Elderly
+368,True,3rd class,"Moussa, Mrs. (Mantoura Boulos)",female,21.5,0,0,2626,7.2292,,Cherbourg,Young adult
+369,True,3rd class,"Jermyn, Miss. Annie",female,21.5,0,0,14313,7.75,,Queenstown,Young adult
+370,True,1st class,"Aubart, Mme. Leontine Pauline",female,24.0,0,0,PC 17477,69.3,B35,Cherbourg,Young adult
+371,True,1st class,"Harder, Mr. George Achilles",male,25.0,1,0,11765,55.4417,E50,Cherbourg,Young adult
+372,False,3rd class,"Wiklund, Mr. Jakob Alfred",male,18.0,1,0,3101267,6.4958,,Southampton,Young adult
+373,False,3rd class,"Beavan, Mr. William Thomas",male,19.0,0,0,323951,8.05,,Southampton,Young adult
+374,False,1st class,"Ringhini, Mr. Sante",male,22.0,0,0,PC 17760,135.6333,,Cherbourg,Young adult
+375,False,3rd class,"Palsson, Miss. Stina Viola",female,3.0,3,1,349909,21.075,,Southampton,Infant
+376,True,1st class,"Meyer, Mrs. Edgar Joseph (Leila Saks)",female,35.0,1,0,PC 17604,82.1708,,Cherbourg,Adult
+377,True,3rd class,"Landergren, Miss. Aurora Adelia",female,22.0,0,0,C 7077,7.25,,Southampton,Young adult
+378,False,1st class,"Widener, Mr. Harry Elkins",male,27.0,0,2,113503,211.5,C82,Cherbourg,Young adult
+379,False,3rd class,"Betros, Mr. Tannous",male,20.0,0,0,2648,4.0125,,Cherbourg,Young adult
+380,False,3rd class,"Gustafsson, Mr. Karl Gideon",male,19.0,0,0,347069,7.775,,Southampton,Young adult
+381,True,1st class,"Bidois, Miss. Rosalie",female,42.0,0,0,PC 17757,227.525,,Cherbourg,Adult
+382,True,3rd class,"Nakid, Miss. Maria (""Mary"")",female,1.0,0,2,2653,15.7417,,Cherbourg,Infant
+383,False,3rd class,"Tikkanen, Mr. Juho",male,32.0,0,0,STON/O 2. 3101293,7.925,,Southampton,Adult
+384,True,1st class,"Holverson, Mrs. Alexander Oskar (Mary Aline Towner)",female,35.0,1,0,113789,52.0,,Southampton,Adult
+385,False,3rd class,"Plotcharsky, Mr. Vasil",male,25.0,0,0,349227,7.8958,,Southampton,Young adult
+386,False,2nd class,"Davies, Mr. Charles Henry",male,18.0,0,0,S.O.C. 14879,73.5,,Southampton,Young adult
+387,False,3rd class,"Goodwin, Master. Sidney Leonard",male,1.0,5,2,CA 2144,46.9,,Southampton,Infant
+388,True,2nd class,"Buss, Miss. Kate",female,36.0,0,0,27849,13.0,,Southampton,Adult
+389,False,3rd class,"Sadlier, Mr. Matthew",male,25.0,0,0,367655,7.7292,,Queenstown,Young adult
+390,True,2nd class,"Lehmann, Miss. Bertha",female,17.0,0,0,SC 1748,12.0,,Cherbourg,Teenager
+391,True,1st class,"Carter, Mr. William Ernest",male,36.0,1,2,113760,120.0,B96 B98,Southampton,Adult
+392,True,3rd class,"Jansson, Mr. Carl Olof",male,21.0,0,0,350034,7.7958,,Southampton,Young adult
+393,False,3rd class,"Gustafsson, Mr. Johan Birger",male,28.0,2,0,3101277,7.925,,Southampton,Young adult
+394,True,1st class,"Newell, Miss. Marjorie",female,23.0,1,0,35273,113.275,D36,Cherbourg,Young adult
+395,True,3rd class,"Sandstrom, Mrs. Hjalmar (Agnes Charlotta Bengtsson)",female,24.0,0,2,PP 9549,16.7,G6,Southampton,Young adult
+396,False,3rd class,"Johansson, Mr. Erik",male,22.0,0,0,350052,7.7958,,Southampton,Young adult
+397,False,3rd class,"Olsson, Miss. Elina",female,31.0,0,0,350407,7.8542,,Southampton,Adult
+398,False,2nd class,"McKane, Mr. Peter David",male,46.0,0,0,28403,26.0,,Southampton,Adult
+399,False,2nd class,"Pain, Dr. Alfred",male,23.0,0,0,244278,10.5,,Southampton,Young adult
+400,True,2nd class,"Trout, Mrs. William H (Jessie L)",female,28.0,0,0,240929,12.65,,Southampton,Young adult
+401,True,3rd class,"Niskanen, Mr. Juha",male,39.0,0,0,STON/O 2. 3101289,7.925,,Southampton,Adult
+402,False,3rd class,"Adams, Mr. John",male,26.0,0,0,341826,8.05,,Southampton,Young adult
+403,False,3rd class,"Jussila, Miss. Mari Aina",female,21.0,1,0,4137,9.825,,Southampton,Young adult
+404,False,3rd class,"Hakkarainen, Mr. Pekka Pietari",male,28.0,1,0,STON/O2. 3101279,15.85,,Southampton,Young adult
+405,False,3rd class,"Oreskovic, Miss. Marija",female,20.0,0,0,315096,8.6625,,Southampton,Young adult
+406,False,2nd class,"Gale, Mr. Shadrach",male,34.0,1,0,28664,21.0,,Southampton,Adult
+407,False,3rd class,"Widegren, Mr. Carl/Charles Peter",male,51.0,0,0,347064,7.75,,Southampton,Adult
+408,True,2nd class,"Richards, Master. William Rowe",male,3.0,1,1,29106,18.75,,Southampton,Infant
+409,False,3rd class,"Birkeland, Mr. Hans Martin Monsen",male,21.0,0,0,312992,7.775,,Southampton,Young adult
+410,False,3rd class,"Lefebre, Miss. Ida",female,21.5,3,1,4133,25.4667,,Southampton,Young adult
+411,False,3rd class,"Sdycoff, Mr. Todor",male,25.0,0,0,349222,7.8958,,Southampton,Young adult
+412,False,3rd class,"Hart, Mr. Henry",male,25.0,0,0,394140,6.8583,,Queenstown,Young adult
+413,True,1st class,"Minahan, Miss. Daisy E",female,33.0,1,0,19928,90.0,C78,Queenstown,Adult
+414,False,2nd class,"Cunningham, Mr. Alfred Fleming",male,30.0,0,0,239853,0.0,,Southampton,Adult
+415,True,3rd class,"Sundman, Mr. Johan Julian",male,44.0,0,0,STON/O 2. 3101269,7.925,,Southampton,Adult
+416,False,3rd class,"Meek, Mrs. Thomas (Annie Louise Rowley)",female,21.5,0,0,343095,8.05,,Southampton,Young adult
+417,True,2nd class,"Drew, Mrs. James Vivian (Lulu Thorne Christian)",female,34.0,1,1,28220,32.5,,Southampton,Adult
+418,True,2nd class,"Silven, Miss. Lyyli Karoliina",female,18.0,0,2,250652,13.0,,Southampton,Young adult
+419,False,2nd class,"Matthews, Mr. William John",male,30.0,0,0,28228,13.0,,Southampton,Adult
+420,False,3rd class,"Van Impe, Miss. Catharina",female,10.0,0,2,345773,24.15,,Southampton,Infant
+421,False,3rd class,"Gheorgheff, Mr. Stanio",male,25.0,0,0,349254,7.8958,,Cherbourg,Young adult
+422,False,3rd class,"Charters, Mr. David",male,21.0,0,0,A/5. 13032,7.7333,,Queenstown,Young adult
+423,False,3rd class,"Zimmerman, Mr. Leo",male,29.0,0,0,315082,7.875,,Southampton,Young adult
+424,False,3rd class,"Danbom, Mrs. Ernst Gilbert (Anna Sigrid Maria Brogren)",female,28.0,1,1,347080,14.4,,Southampton,Young adult
+425,False,3rd class,"Rosblom, Mr. Viktor Richard",male,18.0,1,1,370129,20.2125,,Southampton,Young adult
+426,False,3rd class,"Wiseman, Mr. Phillippe",male,25.0,0,0,A/4. 34244,7.25,,Southampton,Young adult
+427,True,2nd class,"Clarke, Mrs. Charles V (Ada Maria Winfield)",female,28.0,1,0,2003,26.0,,Southampton,Young adult
+428,True,2nd class,"Phillips, Miss. Kate Florence (""Mrs Kate Louise Phillips Marshall"")",female,19.0,0,0,250655,26.0,,Southampton,Young adult
+429,False,3rd class,"Flynn, Mr. James",male,25.0,0,0,364851,7.75,,Queenstown,Young adult
+430,True,3rd class,"Pickard, Mr. Berk (Berk Trembisky)",male,32.0,0,0,SOTON/O.Q. 392078,8.05,E10,Southampton,Adult
+431,True,1st class,"Bjornstrom-Steffansson, Mr. Mauritz Hakan",male,28.0,0,0,110564,26.55,C52,Southampton,Young adult
+432,True,3rd class,"Thorneycroft, Mrs. Percival (Florence Kate White)",female,21.5,1,0,376564,16.1,,Southampton,Young adult
+433,True,2nd class,"Louch, Mrs. Charles Alexander (Alice Adelaide Slow)",female,42.0,1,0,SC/AH 3085,26.0,,Southampton,Adult
+434,False,3rd class,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,STON/O 2. 3101274,7.125,,Southampton,Teenager
+435,False,1st class,"Silvey, Mr. William Baird",male,50.0,1,0,13507,55.9,E44,Southampton,Adult
+436,True,1st class,"Carter, Miss. Lucile Polk",female,14.0,1,2,113760,120.0,B96 B98,Southampton,Teenager
+437,False,3rd class,"Ford, Miss. Doolina Margaret ""Daisy""",female,21.0,2,2,W./C. 6608,34.375,,Southampton,Young adult
+438,True,2nd class,"Richards, Mrs. Sidney (Emily Hocking)",female,24.0,2,3,29106,18.75,,Southampton,Young adult
+439,False,1st class,"Fortune, Mr. Mark",male,64.0,1,4,19950,263.0,C23 C25 C27,Southampton,Elderly
+440,False,2nd class,"Kvillner, Mr. Johan Henrik Johannesson",male,31.0,0,0,C.A. 18723,10.5,,Southampton,Adult
+441,True,2nd class,"Hart, Mrs. Benjamin (Esther Ada Bloomfield)",female,45.0,1,1,F.C.C. 13529,26.25,,Southampton,Adult
+442,False,3rd class,"Hampe, Mr. Leon",male,20.0,0,0,345769,9.5,,Southampton,Young adult
+443,False,3rd class,"Petterson, Mr. Johan Emil",male,25.0,1,0,347076,7.775,,Southampton,Young adult
+444,True,2nd class,"Reynaldo, Ms. Encarnacion",female,28.0,0,0,230434,13.0,,Southampton,Young adult
+445,True,3rd class,"Johannesen-Bratthammer, Mr. Bernt",male,25.0,0,0,65306,8.1125,,Southampton,Young adult
+446,True,1st class,"Dodge, Master. Washington",male,4.0,0,2,33638,81.8583,A34,Southampton,Infant
+447,True,2nd class,"Mellinger, Miss. Madeleine Violet",female,13.0,0,1,250644,19.5,,Southampton,Teenager
+448,True,1st class,"Seward, Mr. Frederic Kimber",male,34.0,0,0,113794,26.55,,Southampton,Adult
+449,True,3rd class,"Baclini, Miss. Marie Catherine",female,5.0,2,1,2666,19.2583,,Cherbourg,Infant
+450,True,1st class,"Peuchen, Major. Arthur Godfrey",male,52.0,0,0,113786,30.5,C104,Southampton,Adult
+451,False,2nd class,"West, Mr. Edwy Arthur",male,36.0,1,2,C.A. 34651,27.75,,Southampton,Adult
+452,False,3rd class,"Hagland, Mr. Ingvald Olai Olsen",male,25.0,1,0,65303,19.9667,,Southampton,Young adult
+453,False,1st class,"Foreman, Mr. Benjamin Laventall",male,30.0,0,0,113051,27.75,C111,Cherbourg,Adult
+454,True,1st class,"Goldenberg, Mr. Samuel L",male,49.0,1,0,17453,89.1042,C92,Cherbourg,Adult
+455,False,3rd class,"Peduzzi, Mr. Joseph",male,25.0,0,0,A/5 2817,8.05,,Southampton,Young adult
+456,True,3rd class,"Jalsevac, Mr. Ivan",male,29.0,0,0,349240,7.8958,,Cherbourg,Young adult
+457,False,1st class,"Millet, Mr. Francis Davis",male,65.0,0,0,13509,26.55,E38,Southampton,Elderly
+458,True,1st class,"Kenyon, Mrs. Frederick R (Marion)",female,35.0,1,0,17464,51.8625,D21,Southampton,Adult
+459,True,2nd class,"Toomey, Miss. Ellen",female,50.0,0,0,F.C.C. 13531,10.5,,Southampton,Adult
+460,False,3rd class,"O'Connor, Mr. Maurice",male,25.0,0,0,371060,7.75,,Queenstown,Young adult
+461,True,1st class,"Anderson, Mr. Harry",male,48.0,0,0,19952,26.55,E12,Southampton,Adult
+462,False,3rd class,"Morley, Mr. William",male,34.0,0,0,364506,8.05,,Southampton,Adult
+463,False,1st class,"Gee, Mr. Arthur H",male,47.0,0,0,111320,38.5,E63,Southampton,Adult
+464,False,2nd class,"Milling, Mr. Jacob Christian",male,48.0,0,0,234360,13.0,,Southampton,Adult
+465,False,3rd class,"Maisner, Mr. Simon",male,25.0,0,0,A/S 2816,8.05,,Southampton,Young adult
+466,False,3rd class,"Goncalves, Mr. Manuel Estanslas",male,38.0,0,0,SOTON/O.Q. 3101306,7.05,,Southampton,Adult
+467,False,2nd class,"Campbell, Mr. William",male,30.0,0,0,239853,0.0,,Southampton,Adult
+468,False,1st class,"Smart, Mr. John Montgomery",male,56.0,0,0,113792,26.55,,Southampton,Adult
+469,False,3rd class,"Scanlan, Mr. James",male,25.0,0,0,36209,7.725,,Queenstown,Young adult
+470,True,3rd class,"Baclini, Miss. Helene Barbara",female,0.75,2,1,2666,19.2583,,Cherbourg,Infant
+471,False,3rd class,"Keefe, Mr. Arthur",male,25.0,0,0,323592,7.25,,Southampton,Young adult
+472,False,3rd class,"Cacic, Mr. Luka",male,38.0,0,0,315089,8.6625,,Southampton,Adult
+473,True,2nd class,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,33.0,1,2,C.A. 34651,27.75,,Southampton,Adult
+474,True,2nd class,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,SC/AH Basle 541,13.7917,D,Cherbourg,Young adult
+475,False,3rd class,"Strandberg, Miss. Ida Sofia",female,22.0,0,0,7553,9.8375,,Southampton,Young adult
+476,False,1st class,"Clifford, Mr. George Quincy",male,40.0,0,0,110465,52.0,A14,Southampton,Adult
+477,False,2nd class,"Renouf, Mr. Peter Henry",male,34.0,1,0,31027,21.0,,Southampton,Adult
+478,False,3rd class,"Braund, Mr. Lewis Richard",male,29.0,1,0,3460,7.0458,,Southampton,Young adult
+479,False,3rd class,"Karlsson, Mr. Nils August",male,22.0,0,0,350060,7.5208,,Southampton,Young adult
+480,True,3rd class,"Hirvonen, Miss. Hildur E",female,2.0,0,1,3101298,12.2875,,Southampton,Infant
+481,False,3rd class,"Goodwin, Master. Harold Victor",male,9.0,5,2,CA 2144,46.9,,Southampton,Infant
+482,False,2nd class,"Frost, Mr. Anthony Wood ""Archie""",male,30.0,0,0,239854,0.0,,Southampton,Adult
+483,False,3rd class,"Rouse, Mr. Richard Henry",male,50.0,0,0,A/5 3594,8.05,,Southampton,Adult
+484,True,3rd class,"Turkula, Mrs. (Hedwig)",female,63.0,0,0,4134,9.5875,,Southampton,Elderly
+485,True,1st class,"Bishop, Mr. Dickinson H",male,25.0,1,0,11967,91.0792,B49,Cherbourg,Young adult
+486,False,3rd class,"Lefebre, Miss. Jeannie",female,21.5,3,1,4133,25.4667,,Southampton,Young adult
+487,True,1st class,"Hoyt, Mrs. Frederick Maxfield (Jane Anne Forby)",female,35.0,1,0,19943,90.0,C93,Southampton,Adult
+488,False,1st class,"Kent, Mr. Edward Austin",male,58.0,0,0,11771,29.7,B37,Cherbourg,Adult
+489,False,3rd class,"Somerton, Mr. Francis William",male,30.0,0,0,A.5. 18509,8.05,,Southampton,Adult
+490,True,3rd class,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,1,C.A. 37671,15.9,,Southampton,Infant
+491,False,3rd class,"Hagland, Mr. Konrad Mathias Reiersen",male,25.0,1,0,65304,19.9667,,Southampton,Young adult
+492,False,3rd class,"Windelov, Mr. Einar",male,21.0,0,0,SOTON/OQ 3101317,7.25,,Southampton,Young adult
+493,False,1st class,"Molson, Mr. Harry Markland",male,55.0,0,0,113787,30.5,C30,Southampton,Adult
+494,False,1st class,"Artagaveytia, Mr. Ramon",male,71.0,0,0,PC 17609,49.5042,,Cherbourg,Elderly
+495,False,3rd class,"Stanley, Mr. Edward Roland",male,21.0,0,0,A/4 45380,8.05,,Southampton,Young adult
+496,False,3rd class,"Yousseff, Mr. Gerious",male,25.0,0,0,2627,14.4583,,Cherbourg,Young adult
+497,True,1st class,"Eustis, Miss. Elizabeth Mussey",female,54.0,1,0,36947,78.2667,D20,Cherbourg,Adult
+498,False,3rd class,"Shellard, Mr. Frederick William",male,25.0,0,0,C.A. 6212,15.1,,Southampton,Young adult
+499,False,1st class,"Allison, Mrs. Hudson J C (Bessie Waldo Daniels)",female,25.0,1,2,113781,151.55,C22 C26,Southampton,Young adult
+500,False,3rd class,"Svensson, Mr. Olof",male,24.0,0,0,350035,7.7958,,Southampton,Young adult
+501,False,3rd class,"Calic, Mr. Petar",male,17.0,0,0,315086,8.6625,,Southampton,Teenager
+502,False,3rd class,"Canavan, Miss. Mary",female,21.0,0,0,364846,7.75,,Queenstown,Young adult
+503,False,3rd class,"O'Sullivan, Miss. Bridget Mary",female,21.5,0,0,330909,7.6292,,Queenstown,Young adult
+504,False,3rd class,"Laitinen, Miss. Kristina Sofia",female,37.0,0,0,4135,9.5875,,Southampton,Adult
+505,True,1st class,"Maioni, Miss. Roberta",female,16.0,0,0,110152,86.5,B79,Southampton,Teenager
+506,False,1st class,"Penasco y Castellana, Mr. Victor de Satode",male,18.0,1,0,PC 17758,108.9,C65,Cherbourg,Young adult
+507,True,2nd class,"Quick, Mrs. Frederick Charles (Jane Richards)",female,33.0,0,2,26360,26.0,,Southampton,Adult
+508,True,1st class,"Bradley, Mr. George (""George Arthur Brayton"")",male,40.0,0,0,111427,26.55,,Southampton,Adult
+509,False,3rd class,"Olsen, Mr. Henry Margido",male,28.0,0,0,C 4001,22.525,,Southampton,Young adult
+510,True,3rd class,"Lang, Mr. Fang",male,26.0,0,0,1601,56.4958,,Southampton,Young adult
+511,True,3rd class,"Daly, Mr. Eugene Patrick",male,29.0,0,0,382651,7.75,,Queenstown,Young adult
+512,False,3rd class,"Webber, Mr. James",male,25.0,0,0,SOTON/OQ 3101316,8.05,,Southampton,Young adult
+513,True,1st class,"McGough, Mr. James Robert",male,36.0,0,0,PC 17473,26.2875,E25,Southampton,Adult
+514,True,1st class,"Rothschild, Mrs. Martin (Elizabeth L. Barrett)",female,54.0,1,0,PC 17603,59.4,,Cherbourg,Adult
+515,False,3rd class,"Coleff, Mr. Satio",male,24.0,0,0,349209,7.4958,,Southampton,Young adult
+516,False,1st class,"Walker, Mr. William Anderson",male,47.0,0,0,36967,34.0208,D46,Southampton,Adult
+517,True,2nd class,"Lemore, Mrs. (Amelia Milley)",female,34.0,0,0,C.A. 34260,10.5,F33,Southampton,Adult
+518,False,3rd class,"Ryan, Mr. Patrick",male,25.0,0,0,371110,24.15,,Queenstown,Young adult
+519,True,2nd class,"Angle, Mrs. William A (Florence ""Mary"" Agnes Hughes)",female,36.0,1,0,226875,26.0,,Southampton,Adult
+520,False,3rd class,"Pavlovic, Mr. Stefo",male,32.0,0,0,349242,7.8958,,Southampton,Adult
+521,True,1st class,"Perreault, Miss. Anne",female,30.0,0,0,12749,93.5,B73,Southampton,Adult
+522,False,3rd class,"Vovk, Mr. Janko",male,22.0,0,0,349252,7.8958,,Southampton,Young adult
+523,False,3rd class,"Lahoud, Mr. Sarkis",male,25.0,0,0,2624,7.225,,Cherbourg,Young adult
+524,True,1st class,"Hippach, Mrs. Louis Albert (Ida Sophia Fischer)",female,44.0,0,1,111361,57.9792,B18,Cherbourg,Adult
+525,False,3rd class,"Kassem, Mr. Fared",male,25.0,0,0,2700,7.2292,,Cherbourg,Young adult
+526,False,3rd class,"Farrell, Mr. James",male,40.5,0,0,367232,7.75,,Queenstown,Adult
+527,True,2nd class,"Ridsdale, Miss. Lucy",female,50.0,0,0,W./C. 14258,10.5,,Southampton,Adult
+528,False,1st class,"Farthing, Mr. John",male,40.0,0,0,PC 17483,221.7792,C95,Southampton,Adult
+529,False,3rd class,"Salonen, Mr. Johan Werner",male,39.0,0,0,3101296,7.925,,Southampton,Adult
+530,False,2nd class,"Hocking, Mr. Richard George",male,23.0,2,1,29104,11.5,,Southampton,Young adult
+531,True,2nd class,"Quick, Miss. Phyllis May",female,2.0,1,1,26360,26.0,,Southampton,Infant
+532,False,3rd class,"Toufik, Mr. Nakli",male,25.0,0,0,2641,7.2292,,Cherbourg,Young adult
+533,False,3rd class,"Elias, Mr. Joseph Jr",male,17.0,1,1,2690,7.2292,,Cherbourg,Teenager
+534,True,3rd class,"Peter, Mrs. Catherine (Catherine Rizk)",female,21.5,0,2,2668,22.3583,,Cherbourg,Young adult
+535,False,3rd class,"Cacic, Miss. Marija",female,30.0,0,0,315084,8.6625,,Southampton,Adult
+536,True,2nd class,"Hart, Miss. Eva Miriam",female,7.0,0,2,F.C.C. 13529,26.25,,Southampton,Infant
+537,False,1st class,"Butt, Major. Archibald Willingham",male,45.0,0,0,113050,26.55,B38,Southampton,Adult
+538,True,1st class,"LeRoy, Miss. Bertha",female,30.0,0,0,PC 17761,106.425,,Cherbourg,Adult
+539,False,3rd class,"Risien, Mr. Samuel Beard",male,25.0,0,0,364498,14.5,,Southampton,Young adult
+540,True,1st class,"Frolicher, Miss. Hedwig Margaritha",female,22.0,0,2,13568,49.5,B39,Cherbourg,Young adult
+541,True,1st class,"Crosby, Miss. Harriet R",female,36.0,0,2,WE/P 5735,71.0,B22,Southampton,Adult
+542,False,3rd class,"Andersson, Miss. Ingeborg Constanzia",female,9.0,4,2,347082,31.275,,Southampton,Infant
+543,False,3rd class,"Andersson, Miss. Sigrid Elisabeth",female,11.0,4,2,347082,31.275,,Southampton,Infant
+544,True,2nd class,"Beane, Mr. Edward",male,32.0,1,0,2908,26.0,,Southampton,Adult
+545,False,1st class,"Douglas, Mr. Walter Donald",male,50.0,1,0,PC 17761,106.425,C86,Cherbourg,Adult
+546,False,1st class,"Nicholson, Mr. Arthur Ernest",male,64.0,0,0,693,26.0,,Southampton,Elderly
+547,True,2nd class,"Beane, Mrs. Edward (Ethel Clarke)",female,19.0,1,0,2908,26.0,,Southampton,Young adult
+548,True,2nd class,"Padro y Manent, Mr. Julian",male,30.0,0,0,SC/PARIS 2146,13.8625,,Cherbourg,Adult
+549,False,3rd class,"Goldsmith, Mr. Frank John",male,33.0,1,1,363291,20.525,,Southampton,Adult
+550,True,2nd class,"Davies, Master. John Morgan Jr",male,8.0,1,1,C.A. 33112,36.75,,Southampton,Infant
+551,True,1st class,"Thayer, Mr. John Borland Jr",male,17.0,0,2,17421,110.8833,C70,Cherbourg,Teenager
+552,False,2nd class,"Sharp, Mr. Percival James R",male,27.0,0,0,244358,26.0,,Southampton,Young adult
+553,False,3rd class,"O'Brien, Mr. Timothy",male,25.0,0,0,330979,7.8292,,Queenstown,Young adult
+554,True,3rd class,"Leeni, Mr. Fahim (""Philip Zenni"")",male,22.0,0,0,2620,7.225,,Cherbourg,Young adult
+555,True,3rd class,"Ohman, Miss. Velin",female,22.0,0,0,347085,7.775,,Southampton,Young adult
+556,False,1st class,"Wright, Mr. George",male,62.0,0,0,113807,26.55,,Southampton,Elderly
+557,True,1st class,"Duff Gordon, Lady. (Lucille Christiana Sutherland) (""Mrs Morgan"")",female,48.0,1,0,11755,39.6,A16,Cherbourg,Adult
+558,False,1st class,"Robbins, Mr. Victor",male,40.0,0,0,PC 17757,227.525,,Cherbourg,Adult
+559,True,1st class,"Taussig, Mrs. Emil (Tillie Mandelbaum)",female,39.0,1,1,110413,79.65,E67,Southampton,Adult
+560,True,3rd class,"de Messemaeker, Mrs. Guillaume Joseph (Emma)",female,36.0,1,0,345572,17.4,,Southampton,Adult
+561,False,3rd class,"Morrow, Mr. Thomas Rowan",male,25.0,0,0,372622,7.75,,Queenstown,Young adult
+562,False,3rd class,"Sivic, Mr. Husein",male,40.0,0,0,349251,7.8958,,Southampton,Adult
+563,False,2nd class,"Norman, Mr. Robert Douglas",male,28.0,0,0,218629,13.5,,Southampton,Young adult
+564,False,3rd class,"Simmons, Mr. John",male,25.0,0,0,SOTON/OQ 392082,8.05,,Southampton,Young adult
+565,False,3rd class,"Meanwell, Miss. (Marion Ogden)",female,21.5,0,0,SOTON/O.Q. 392087,8.05,,Southampton,Young adult
+566,False,3rd class,"Davies, Mr. Alfred J",male,24.0,2,0,A/4 48871,24.15,,Southampton,Young adult
+567,False,3rd class,"Stoytcheff, Mr. Ilia",male,19.0,0,0,349205,7.8958,,Southampton,Young adult
+568,False,3rd class,"Palsson, Mrs. Nils (Alma Cornelia Berglund)",female,29.0,0,4,349909,21.075,,Southampton,Young adult
+569,False,3rd class,"Doharr, Mr. Tannous",male,25.0,0,0,2686,7.2292,,Cherbourg,Young adult
+570,True,3rd class,"Jonsson, Mr. Carl",male,32.0,0,0,350417,7.8542,,Southampton,Adult
+571,True,2nd class,"Harris, Mr. George",male,62.0,0,0,S.W./PP 752,10.5,,Southampton,Elderly
+572,True,1st class,"Appleton, Mrs. Edward Dale (Charlotte Lamson)",female,53.0,2,0,11769,51.4792,C101,Southampton,Adult
+573,True,1st class,"Flynn, Mr. John Irwin (""Irving"")",male,36.0,0,0,PC 17474,26.3875,E25,Southampton,Adult
+574,True,3rd class,"Kelly, Miss. Mary",female,21.5,0,0,14312,7.75,,Queenstown,Young adult
+575,False,3rd class,"Rush, Mr. Alfred George John",male,16.0,0,0,A/4. 20589,8.05,,Southampton,Teenager
+576,False,3rd class,"Patchett, Mr. George",male,19.0,0,0,358585,14.5,,Southampton,Young adult
+577,True,2nd class,"Garside, Miss. Ethel",female,34.0,0,0,243880,13.0,,Southampton,Adult
+578,True,1st class,"Silvey, Mrs. William Baird (Alice Munger)",female,39.0,1,0,13507,55.9,E44,Southampton,Adult
+579,False,3rd class,"Caram, Mrs. Joseph (Maria Elias)",female,21.5,1,0,2689,14.4583,,Cherbourg,Young adult
+580,True,3rd class,"Jussila, Mr. Eiriik",male,32.0,0,0,STON/O 2. 3101286,7.925,,Southampton,Adult
+581,True,2nd class,"Christy, Miss. Julie Rachel",female,25.0,1,1,237789,30.0,,Southampton,Young adult
+582,True,1st class,"Thayer, Mrs. John Borland (Marian Longstreth Morris)",female,39.0,1,1,17421,110.8833,C68,Cherbourg,Adult
+583,False,2nd class,"Downton, Mr. William James",male,54.0,0,0,28403,26.0,,Southampton,Adult
+584,False,1st class,"Ross, Mr. John Hugo",male,36.0,0,0,13049,40.125,A10,Cherbourg,Adult
+585,False,3rd class,"Paulner, Mr. Uscher",male,25.0,0,0,3411,8.7125,,Cherbourg,Young adult
+586,True,1st class,"Taussig, Miss. Ruth",female,18.0,0,2,110413,79.65,E68,Southampton,Young adult
+587,False,2nd class,"Jarvis, Mr. John Denzil",male,47.0,0,0,237565,15.0,,Southampton,Adult
+588,True,1st class,"Frolicher-Stehli, Mr. Maxmillian",male,60.0,1,1,13567,79.2,B41,Cherbourg,Elderly
+589,False,3rd class,"Gilinski, Mr. Eliezer",male,22.0,0,0,14973,8.05,,Southampton,Young adult
+590,False,3rd class,"Murdlin, Mr. Joseph",male,25.0,0,0,A./5. 3235,8.05,,Southampton,Young adult
+591,False,3rd class,"Rintamaki, Mr. Matti",male,35.0,0,0,STON/O 2. 3101273,7.125,,Southampton,Adult
+592,True,1st class,"Stephenson, Mrs. Walter Bertram (Martha Eustis)",female,52.0,1,0,36947,78.2667,D20,Cherbourg,Adult
+593,False,3rd class,"Elsbury, Mr. William James",male,47.0,0,0,A/5 3902,7.25,,Southampton,Adult
+594,False,3rd class,"Bourke, Miss. Mary",female,21.5,0,2,364848,7.75,,Queenstown,Young adult
+595,False,2nd class,"Chapman, Mr. John Henry",male,37.0,1,0,SC/AH 29037,26.0,,Southampton,Adult
+596,False,3rd class,"Van Impe, Mr. Jean Baptiste",male,36.0,1,1,345773,24.15,,Southampton,Adult
+597,True,2nd class,"Leitch, Miss. Jessie Wills",female,28.0,0,0,248727,33.0,,Southampton,Young adult
+598,False,3rd class,"Johnson, Mr. Alfred",male,49.0,0,0,LINE,0.0,,Southampton,Adult
+599,False,3rd class,"Boulos, Mr. Hanna",male,25.0,0,0,2664,7.225,,Cherbourg,Young adult
+600,True,1st class,"Duff Gordon, Sir. Cosmo Edmund (""Mr Morgan"")",male,49.0,1,0,PC 17485,56.9292,A20,Cherbourg,Adult
+601,True,2nd class,"Jacobsohn, Mrs. Sidney Samuel (Amy Frances Christy)",female,24.0,2,1,243847,27.0,,Southampton,Young adult
+602,False,3rd class,"Slabenoff, Mr. Petco",male,25.0,0,0,349214,7.8958,,Southampton,Young adult
+603,False,1st class,"Harrington, Mr. Charles H",male,40.0,0,0,113796,42.4,,Southampton,Adult
+604,False,3rd class,"Torber, Mr. Ernst William",male,44.0,0,0,364511,8.05,,Southampton,Adult
+605,True,1st class,"Homer, Mr. Harry (""Mr E Haven"")",male,35.0,0,0,111426,26.55,,Cherbourg,Adult
+606,False,3rd class,"Lindell, Mr. Edvard Bengtsson",male,36.0,1,0,349910,15.55,,Southampton,Adult
+607,False,3rd class,"Karaic, Mr. Milan",male,30.0,0,0,349246,7.8958,,Southampton,Adult
+608,True,1st class,"Daniel, Mr. Robert Williams",male,27.0,0,0,113804,30.5,,Southampton,Young adult
+609,True,2nd class,"Laroche, Mrs. Joseph (Juliette Marie Louise Lafargue)",female,22.0,1,2,SC/Paris 2123,41.5792,,Cherbourg,Young adult
+610,True,1st class,"Shutes, Miss. Elizabeth W",female,40.0,0,0,PC 17582,153.4625,C125,Southampton,Adult
+611,False,3rd class,"Andersson, Mrs. Anders Johan (Alfrida Konstantia Brogren)",female,39.0,1,5,347082,31.275,,Southampton,Adult
+612,False,3rd class,"Jardin, Mr. Jose Neto",male,25.0,0,0,SOTON/O.Q. 3101305,7.05,,Southampton,Young adult
+613,True,3rd class,"Murphy, Miss. Margaret Jane",female,21.5,1,0,367230,15.5,,Queenstown,Young adult
+614,False,3rd class,"Horgan, Mr. John",male,25.0,0,0,370377,7.75,,Queenstown,Young adult
+615,False,3rd class,"Brocklebank, Mr. William Alfred",male,35.0,0,0,364512,8.05,,Southampton,Adult
+616,True,2nd class,"Herman, Miss. Alice",female,24.0,1,2,220845,65.0,,Southampton,Young adult
+617,False,3rd class,"Danbom, Mr. Ernst Gilbert",male,34.0,1,1,347080,14.4,,Southampton,Adult
+618,False,3rd class,"Lobb, Mrs. William Arthur (Cordelia K Stanlick)",female,26.0,1,0,A/5. 3336,16.1,,Southampton,Young adult
+619,True,2nd class,"Becker, Miss. Marion Louise",female,4.0,2,1,230136,39.0,F4,Southampton,Infant
+620,False,2nd class,"Gavey, Mr. Lawrence",male,26.0,0,0,31028,10.5,,Southampton,Young adult
+621,False,3rd class,"Yasbeck, Mr. Antoni",male,27.0,1,0,2659,14.4542,,Cherbourg,Young adult
+622,True,1st class,"Kimball, Mr. Edwin Nelson Jr",male,42.0,1,0,11753,52.5542,D19,Southampton,Adult
+623,True,3rd class,"Nakid, Mr. Sahid",male,20.0,1,1,2653,15.7417,,Cherbourg,Young adult
+624,False,3rd class,"Hansen, Mr. Henry Damsgaard",male,21.0,0,0,350029,7.8542,,Southampton,Young adult
+625,False,3rd class,"Bowen, Mr. David John ""Dai""",male,21.0,0,0,54636,16.1,,Southampton,Young adult
+626,False,1st class,"Sutton, Mr. Frederick",male,61.0,0,0,36963,32.3208,D50,Southampton,Elderly
+627,False,2nd class,"Kirkland, Rev. Charles Leonard",male,57.0,0,0,219533,12.35,,Queenstown,Adult
+628,True,1st class,"Longley, Miss. Gretchen Fiske",female,21.0,0,0,13502,77.9583,D9,Southampton,Young adult
+629,False,3rd class,"Bostandyeff, Mr. Guentcho",male,26.0,0,0,349224,7.8958,,Southampton,Young adult
+630,False,3rd class,"O'Connell, Mr. Patrick D",male,25.0,0,0,334912,7.7333,,Queenstown,Young adult
+631,True,1st class,"Barkworth, Mr. Algernon Henry Wilson",male,80.0,0,0,27042,30.0,A23,Southampton,Elderly
+632,False,3rd class,"Lundahl, Mr. Johan Svensson",male,51.0,0,0,347743,7.0542,,Southampton,Adult
+633,True,1st class,"Stahelin-Maeglin, Dr. Max",male,32.0,0,0,13214,30.5,B50,Cherbourg,Adult
+634,False,1st class,"Parr, Mr. William Henry Marsh",male,40.0,0,0,112052,0.0,,Southampton,Adult
+635,False,3rd class,"Skoog, Miss. Mabel",female,9.0,3,2,347088,27.9,,Southampton,Infant
+636,True,2nd class,"Davis, Miss. Mary",female,28.0,0,0,237668,13.0,,Southampton,Young adult
+637,False,3rd class,"Leinonen, Mr. Antti Gustaf",male,32.0,0,0,STON/O 2. 3101292,7.925,,Southampton,Adult
+638,False,2nd class,"Collyer, Mr. Harvey",male,31.0,1,1,C.A. 31921,26.25,,Southampton,Adult
+639,False,3rd class,"Panula, Mrs. Juha (Maria Emilia Ojala)",female,41.0,0,5,3101295,39.6875,,Southampton,Adult
+640,False,3rd class,"Thorneycroft, Mr. Percival",male,25.0,1,0,376564,16.1,,Southampton,Young adult
+641,False,3rd class,"Jensen, Mr. Hans Peder",male,20.0,0,0,350050,7.8542,,Southampton,Young adult
+642,True,1st class,"Sagesser, Mlle. Emma",female,24.0,0,0,PC 17477,69.3,B35,Cherbourg,Young adult
+643,False,3rd class,"Skoog, Miss. Margit Elizabeth",female,2.0,3,2,347088,27.9,,Southampton,Infant
+644,True,3rd class,"Foo, Mr. Choong",male,25.0,0,0,1601,56.4958,,Southampton,Young adult
+645,True,3rd class,"Baclini, Miss. Eugenie",female,0.75,2,1,2666,19.2583,,Cherbourg,Infant
+646,True,1st class,"Harper, Mr. Henry Sleeper",male,48.0,1,0,PC 17572,76.7292,D33,Cherbourg,Adult
+647,False,3rd class,"Cor, Mr. Liudevit",male,19.0,0,0,349231,7.8958,,Southampton,Young adult
+648,True,1st class,"Simonius-Blumer, Col. Oberst Alfons",male,56.0,0,0,13213,35.5,A26,Cherbourg,Adult
+649,False,3rd class,"Willey, Mr. Edward",male,25.0,0,0,S.O./P.P. 751,7.55,,Southampton,Young adult
+650,True,3rd class,"Stanley, Miss. Amy Zillah Elsie",female,23.0,0,0,CA. 2314,7.55,,Southampton,Young adult
+651,False,3rd class,"Mitkoff, Mr. Mito",male,25.0,0,0,349221,7.8958,,Southampton,Young adult
+652,True,2nd class,"Doling, Miss. Elsie",female,18.0,0,1,231919,23.0,,Southampton,Young adult
+653,False,3rd class,"Kalvik, Mr. Johannes Halvorsen",male,21.0,0,0,8475,8.4333,,Southampton,Young adult
+654,True,3rd class,"O'Leary, Miss. Hanora ""Norah""",female,21.5,0,0,330919,7.8292,,Queenstown,Young adult
+655,False,3rd class,"Hegarty, Miss. Hanora ""Nora""",female,18.0,0,0,365226,6.75,,Queenstown,Young adult
+656,False,2nd class,"Hickman, Mr. Leonard Mark",male,24.0,2,0,S.O.C. 14879,73.5,,Southampton,Young adult
+657,False,3rd class,"Radeff, Mr. Alexander",male,25.0,0,0,349223,7.8958,,Southampton,Young adult
+658,False,3rd class,"Bourke, Mrs. John (Catherine)",female,32.0,1,1,364849,15.5,,Queenstown,Adult
+659,False,2nd class,"Eitemiller, Mr. George Floyd",male,23.0,0,0,29751,13.0,,Southampton,Young adult
+660,False,1st class,"Newell, Mr. Arthur Webster",male,58.0,0,2,35273,113.275,D48,Cherbourg,Adult
+661,True,1st class,"Frauenthal, Dr. Henry William",male,50.0,2,0,PC 17611,133.65,,Southampton,Adult
+662,False,3rd class,"Badt, Mr. Mohamed",male,40.0,0,0,2623,7.225,,Cherbourg,Adult
+663,False,1st class,"Colley, Mr. Edward Pomeroy",male,47.0,0,0,5727,25.5875,E58,Southampton,Adult
+664,False,3rd class,"Coleff, Mr. Peju",male,36.0,0,0,349210,7.4958,,Southampton,Adult
+665,True,3rd class,"Lindqvist, Mr. Eino William",male,20.0,1,0,STON/O 2. 3101285,7.925,,Southampton,Young adult
+666,False,2nd class,"Hickman, Mr. Lewis",male,32.0,2,0,S.O.C. 14879,73.5,,Southampton,Adult
+667,False,2nd class,"Butler, Mr. Reginald Fenton",male,25.0,0,0,234686,13.0,,Southampton,Young adult
+668,False,3rd class,"Rommetvedt, Mr. Knud Paust",male,25.0,0,0,312993,7.775,,Southampton,Young adult
+669,False,3rd class,"Cook, Mr. Jacob",male,43.0,0,0,A/5 3536,8.05,,Southampton,Adult
+670,True,1st class,"Taylor, Mrs. Elmer Zebley (Juliet Cummins Wright)",female,35.0,1,0,19996,52.0,C126,Southampton,Adult
+671,True,2nd class,"Brown, Mrs. Thomas William Solomon (Elizabeth Catherine Ford)",female,40.0,1,1,29750,39.0,,Southampton,Adult
+672,False,1st class,"Davidson, Mr. Thornton",male,31.0,1,0,F.C. 12750,52.0,B71,Southampton,Adult
+673,False,2nd class,"Mitchell, Mr. Henry Michael",male,70.0,0,0,C.A. 24580,10.5,,Southampton,Elderly
+674,True,2nd class,"Wilhelms, Mr. Charles",male,31.0,0,0,244270,13.0,,Southampton,Adult
+675,False,2nd class,"Watson, Mr. Ennis Hastings",male,30.0,0,0,239856,0.0,,Southampton,Adult
+676,False,3rd class,"Edvardsson, Mr. Gustaf Hjalmar",male,18.0,0,0,349912,7.775,,Southampton,Young adult
+677,False,3rd class,"Sawyer, Mr. Frederick Charles",male,24.5,0,0,342826,8.05,,Southampton,Young adult
+678,True,3rd class,"Turja, Miss. Anna Sofia",female,18.0,0,0,4138,9.8417,,Southampton,Young adult
+679,False,3rd class,"Goodwin, Mrs. Frederick (Augusta Tyler)",female,43.0,1,6,CA 2144,46.9,,Southampton,Adult
+680,True,1st class,"Cardeza, Mr. Thomas Drake Martinez",male,36.0,0,1,PC 17755,512.3292,B51 B53 B55,Cherbourg,Adult
+681,False,3rd class,"Peters, Miss. Katie",female,21.5,0,0,330935,8.1375,,Queenstown,Young adult
+682,True,1st class,"Hassab, Mr. Hammad",male,27.0,0,0,PC 17572,76.7292,D49,Cherbourg,Young adult
+683,False,3rd class,"Olsvigen, Mr. Thor Anderson",male,20.0,0,0,6563,9.225,,Southampton,Young adult
+684,False,3rd class,"Goodwin, Mr. Charles Edward",male,14.0,5,2,CA 2144,46.9,,Southampton,Teenager
+685,False,2nd class,"Brown, Mr. Thomas William Solomon",male,60.0,1,1,29750,39.0,,Southampton,Elderly
+686,False,2nd class,"Laroche, Mr. Joseph Philippe Lemercier",male,25.0,1,2,SC/Paris 2123,41.5792,,Cherbourg,Young adult
+687,False,3rd class,"Panula, Mr. Jaako Arnold",male,14.0,4,1,3101295,39.6875,,Southampton,Teenager
+688,False,3rd class,"Dakic, Mr. Branko",male,19.0,0,0,349228,10.1708,,Southampton,Young adult
+689,False,3rd class,"Fischer, Mr. Eberhard Thelander",male,18.0,0,0,350036,7.7958,,Southampton,Young adult
+690,True,1st class,"Madill, Miss. Georgette Alexandra",female,15.0,0,1,24160,211.3375,B5,Southampton,Teenager
+691,True,1st class,"Dick, Mr. Albert Adrian",male,31.0,1,0,17474,57.0,B20,Southampton,Adult
+692,True,3rd class,"Karun, Miss. Manca",female,4.0,0,1,349256,13.4167,,Cherbourg,Infant
+693,True,3rd class,"Lam, Mr. Ali",male,25.0,0,0,1601,56.4958,,Southampton,Young adult
+694,False,3rd class,"Saad, Mr. Khalil",male,25.0,0,0,2672,7.225,,Cherbourg,Young adult
+695,False,1st class,"Weir, Col. John",male,60.0,0,0,113800,26.55,,Southampton,Elderly
+696,False,2nd class,"Chapman, Mr. Charles Henry",male,52.0,0,0,248731,13.5,,Southampton,Adult
+697,False,3rd class,"Kelly, Mr. James",male,44.0,0,0,363592,8.05,,Southampton,Adult
+698,True,3rd class,"Mullens, Miss. Katherine ""Katie""",female,21.5,0,0,35852,7.7333,,Queenstown,Young adult
+699,False,1st class,"Thayer, Mr. John Borland",male,49.0,1,1,17421,110.8833,C68,Cherbourg,Adult
+700,False,3rd class,"Humblen, Mr. Adolf Mathias Nicolai Olsen",male,42.0,0,0,348121,7.65,F G63,Southampton,Adult
+701,True,1st class,"Astor, Mrs. John Jacob (Madeleine Talmadge Force)",female,18.0,1,0,PC 17757,227.525,C62 C64,Cherbourg,Young adult
+702,True,1st class,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,PC 17475,26.2875,E24,Southampton,Adult
+703,False,3rd class,"Barbara, Miss. Saiide",female,18.0,0,1,2691,14.4542,,Cherbourg,Young adult
+704,False,3rd class,"Gallagher, Mr. Martin",male,25.0,0,0,36864,7.7417,,Queenstown,Young adult
+705,False,3rd class,"Hansen, Mr. Henrik Juul",male,26.0,1,0,350025,7.8542,,Southampton,Young adult
+706,False,2nd class,"Morley, Mr. Henry Samuel (""Mr Henry Marshall"")",male,39.0,0,0,250655,26.0,,Southampton,Adult
+707,True,2nd class,"Kelly, Mrs. Florence ""Fannie""",female,45.0,0,0,223596,13.5,,Southampton,Adult
+708,True,1st class,"Calderhead, Mr. Edward Pennington",male,42.0,0,0,PC 17476,26.2875,E24,Southampton,Adult
+709,True,1st class,"Cleaver, Miss. Alice",female,22.0,0,0,113781,151.55,,Southampton,Young adult
+710,True,3rd class,"Moubarek, Master. Halim Gonios (""William George"")",male,25.0,1,1,2661,15.2458,,Cherbourg,Young adult
+711,True,1st class,"Mayne, Mlle. Berthe Antonine (""Mrs de Villiers"")",female,24.0,0,0,PC 17482,49.5042,C90,Cherbourg,Young adult
+712,False,1st class,"Klaber, Mr. Herman",male,40.0,0,0,113028,26.55,C124,Southampton,Adult
+713,True,1st class,"Taylor, Mr. Elmer Zebley",male,48.0,1,0,19996,52.0,C126,Southampton,Adult
+714,False,3rd class,"Larsson, Mr. August Viktor",male,29.0,0,0,7545,9.4833,,Southampton,Young adult
+715,False,2nd class,"Greenberg, Mr. Samuel",male,52.0,0,0,250647,13.0,,Southampton,Adult
+716,False,3rd class,"Soholt, Mr. Peter Andreas Lauritz Andersen",male,19.0,0,0,348124,7.65,F G73,Southampton,Young adult
+717,True,1st class,"Endres, Miss. Caroline Louise",female,38.0,0,0,PC 17757,227.525,C45,Cherbourg,Adult
+718,True,2nd class,"Troutt, Miss. Edwina Celia ""Winnie""",female,27.0,0,0,34218,10.5,E101,Southampton,Young adult
+719,False,3rd class,"McEvoy, Mr. Michael",male,25.0,0,0,36568,15.5,,Queenstown,Young adult
+720,False,3rd class,"Johnson, Mr. Malkolm Joackim",male,33.0,0,0,347062,7.775,,Southampton,Adult
+721,True,2nd class,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,0,1,248727,33.0,,Southampton,Infant
+722,False,3rd class,"Jensen, Mr. Svend Lauritz",male,17.0,1,0,350048,7.0542,,Southampton,Teenager
+723,False,2nd class,"Gillespie, Mr. William Henry",male,34.0,0,0,12233,13.0,,Southampton,Adult
+724,False,2nd class,"Hodges, Mr. Henry Price",male,50.0,0,0,250643,13.0,,Southampton,Adult
+725,True,1st class,"Chambers, Mr. Norman Campbell",male,27.0,1,0,113806,53.1,E8,Southampton,Young adult
+726,False,3rd class,"Oreskovic, Mr. Luka",male,20.0,0,0,315094,8.6625,,Southampton,Young adult
+727,True,2nd class,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,0,31027,21.0,,Southampton,Adult
+728,True,3rd class,"Mannion, Miss. Margareth",female,21.5,0,0,36866,7.7375,,Queenstown,Young adult
+729,False,2nd class,"Bryhl, Mr. Kurt Arnold Gottfrid",male,25.0,1,0,236853,26.0,,Southampton,Young adult
+730,False,3rd class,"Ilmakangas, Miss. Pieta Sofia",female,25.0,1,0,STON/O2. 3101271,7.925,,Southampton,Young adult
+731,True,1st class,"Allen, Miss. Elisabeth Walton",female,29.0,0,0,24160,211.3375,B5,Southampton,Young adult
+732,False,3rd class,"Hassan, Mr. Houssein G N",male,11.0,0,0,2699,18.7875,,Cherbourg,Infant
+733,False,2nd class,"Knight, Mr. Robert J",male,30.0,0,0,239855,0.0,,Southampton,Adult
+734,False,2nd class,"Berriman, Mr. William John",male,23.0,0,0,28425,13.0,,Southampton,Young adult
+735,False,2nd class,"Troupiansky, Mr. Moses Aaron",male,23.0,0,0,233639,13.0,,Southampton,Young adult
+736,False,3rd class,"Williams, Mr. Leslie",male,28.5,0,0,54636,16.1,,Southampton,Young adult
+737,False,3rd class,"Ford, Mrs. Edward (Margaret Ann Watson)",female,48.0,1,3,W./C. 6608,34.375,,Southampton,Adult
+738,True,1st class,"Lesurer, Mr. Gustave J",male,35.0,0,0,PC 17755,512.3292,B101,Cherbourg,Adult
+739,False,3rd class,"Ivanoff, Mr. Kanio",male,25.0,0,0,349201,7.8958,,Southampton,Young adult
+740,False,3rd class,"Nankoff, Mr. Minko",male,25.0,0,0,349218,7.8958,,Southampton,Young adult
+741,True,1st class,"Hawksford, Mr. Walter James",male,40.0,0,0,16988,30.0,D45,Southampton,Adult
+742,False,1st class,"Cavendish, Mr. Tyrell William",male,36.0,1,0,19877,78.85,C46,Southampton,Adult
+743,True,1st class,"Ryerson, Miss. Susan Parker ""Suzette""",female,21.0,2,2,PC 17608,262.375,B57 B59 B63 B66,Cherbourg,Young adult
+744,False,3rd class,"McNamee, Mr. Neal",male,24.0,1,0,376566,16.1,,Southampton,Young adult
+745,True,3rd class,"Stranden, Mr. Juho",male,31.0,0,0,STON/O 2. 3101288,7.925,,Southampton,Adult
+746,False,1st class,"Crosby, Capt. Edward Gifford",male,70.0,1,1,WE/P 5735,71.0,B22,Southampton,Elderly
+747,False,3rd class,"Abbott, Mr. Rossmore Edward",male,16.0,1,1,C.A. 2673,20.25,,Southampton,Teenager
+748,True,2nd class,"Sinkkonen, Miss. Anna",female,30.0,0,0,250648,13.0,,Southampton,Adult
+749,False,1st class,"Marvin, Mr. Daniel Warner",male,19.0,1,0,113773,53.1,D30,Southampton,Young adult
+750,False,3rd class,"Connaghton, Mr. Michael",male,31.0,0,0,335097,7.75,,Queenstown,Adult
+751,True,2nd class,"Wells, Miss. Joan",female,4.0,1,1,29103,23.0,,Southampton,Infant
+752,True,3rd class,"Moor, Master. Meier",male,6.0,0,1,392096,12.475,E121,Southampton,Infant
+753,False,3rd class,"Vande Velde, Mr. Johannes Joseph",male,33.0,0,0,345780,9.5,,Southampton,Adult
+754,False,3rd class,"Jonkoff, Mr. Lalio",male,23.0,0,0,349204,7.8958,,Southampton,Young adult
+755,True,2nd class,"Herman, Mrs. Samuel (Jane Laver)",female,48.0,1,2,220845,65.0,,Southampton,Adult
+756,True,2nd class,"Hamalainen, Master. Viljo",male,0.67,1,1,250649,14.5,,Southampton,Infant
+757,False,3rd class,"Carlsson, Mr. August Sigfrid",male,28.0,0,0,350042,7.7958,,Southampton,Young adult
+758,False,2nd class,"Bailey, Mr. Percy Andrew",male,18.0,0,0,29108,11.5,,Southampton,Young adult
+759,False,3rd class,"Theobald, Mr. Thomas Leonard",male,34.0,0,0,363294,8.05,,Southampton,Adult
+760,True,1st class,"Rothes, the Countess. of (Lucy Noel Martha Dyer-Edwards)",female,33.0,0,0,110152,86.5,B77,Southampton,Adult
+761,False,3rd class,"Garfirth, Mr. John",male,25.0,0,0,358585,14.5,,Southampton,Young adult
+762,False,3rd class,"Nirva, Mr. Iisakki Antino Aijo",male,41.0,0,0,SOTON/O2 3101272,7.125,,Southampton,Adult
+763,True,3rd class,"Barah, Mr. Hanna Assi",male,20.0,0,0,2663,7.2292,,Cherbourg,Young adult
+764,True,1st class,"Carter, Mrs. William Ernest (Lucile Polk)",female,36.0,1,2,113760,120.0,B96 B98,Southampton,Adult
+765,False,3rd class,"Eklund, Mr. Hans Linus",male,16.0,0,0,347074,7.775,,Southampton,Teenager
+766,True,1st class,"Hogeboom, Mrs. John C (Anna Andrews)",female,51.0,1,0,13502,77.9583,D11,Southampton,Adult
+767,False,1st class,"Brewe, Dr. Arthur Jackson",male,40.0,0,0,112379,39.6,,Cherbourg,Adult
+768,False,3rd class,"Mangan, Miss. Mary",female,30.5,0,0,364850,7.75,,Queenstown,Adult
+769,False,3rd class,"Moran, Mr. Daniel J",male,25.0,1,0,371110,24.15,,Queenstown,Young adult
+770,False,3rd class,"Gronnestad, Mr. Daniel Danielsen",male,32.0,0,0,8471,8.3625,,Southampton,Adult
+771,False,3rd class,"Lievens, Mr. Rene Aime",male,24.0,0,0,345781,9.5,,Southampton,Young adult
+772,False,3rd class,"Jensen, Mr. Niels Peder",male,48.0,0,0,350047,7.8542,,Southampton,Adult
+773,False,2nd class,"Mack, Mrs. (Mary)",female,57.0,0,0,S.O./P.P. 3,10.5,E77,Southampton,Adult
+774,False,3rd class,"Elias, Mr. Dibo",male,25.0,0,0,2674,7.225,,Cherbourg,Young adult
+775,True,2nd class,"Hocking, Mrs. Elizabeth (Eliza Needs)",female,54.0,1,3,29105,23.0,,Southampton,Adult
+776,False,3rd class,"Myhrman, Mr. Pehr Fabian Oliver Malkolm",male,18.0,0,0,347078,7.75,,Southampton,Young adult
+777,False,3rd class,"Tobin, Mr. Roger",male,25.0,0,0,383121,7.75,F38,Queenstown,Young adult
+778,True,3rd class,"Emanuel, Miss. Virginia Ethel",female,5.0,0,0,364516,12.475,,Southampton,Infant
+779,False,3rd class,"Kilgannon, Mr. Thomas J",male,25.0,0,0,36865,7.7375,,Queenstown,Young adult
+780,True,1st class,"Robert, Mrs. Edward Scott (Elisabeth Walton McMillan)",female,43.0,0,1,24160,211.3375,B3,Southampton,Adult
+781,True,3rd class,"Ayoub, Miss. Banoura",female,13.0,0,0,2687,7.2292,,Cherbourg,Teenager
+782,True,1st class,"Dick, Mrs. Albert Adrian (Vera Gillespie)",female,17.0,1,0,17474,57.0,B20,Southampton,Teenager
+783,False,1st class,"Long, Mr. Milton Clyde",male,29.0,0,0,113501,30.0,D6,Southampton,Young adult
+784,False,3rd class,"Johnston, Mr. Andrew G",male,25.0,1,2,W./C. 6607,23.45,,Southampton,Young adult
+785,False,3rd class,"Ali, Mr. William",male,25.0,0,0,SOTON/O.Q. 3101312,7.05,,Southampton,Young adult
+786,False,3rd class,"Harmer, Mr. Abraham (David Lishin)",male,25.0,0,0,374887,7.25,,Southampton,Young adult
+787,True,3rd class,"Sjoblom, Miss. Anna Sofia",female,18.0,0,0,3101265,7.4958,,Southampton,Young adult
+788,False,3rd class,"Rice, Master. George Hugh",male,8.0,4,1,382652,29.125,,Queenstown,Infant
+789,True,3rd class,"Dean, Master. Bertram Vere",male,1.0,1,2,C.A. 2315,20.575,,Southampton,Infant
+790,False,1st class,"Guggenheim, Mr. Benjamin",male,46.0,0,0,PC 17593,79.2,B82 B84,Cherbourg,Adult
+791,False,3rd class,"Keane, Mr. Andrew ""Andy""",male,25.0,0,0,12460,7.75,,Queenstown,Young adult
+792,False,2nd class,"Gaskell, Mr. Alfred",male,16.0,0,0,239865,26.0,,Southampton,Teenager
+793,False,3rd class,"Sage, Miss. Stella Anna",female,21.5,8,2,CA. 2343,69.55,,Southampton,Young adult
+794,False,1st class,"Hoyt, Mr. William Fisher",male,40.0,0,0,PC 17600,30.6958,,Cherbourg,Adult
+795,False,3rd class,"Dantcheff, Mr. Ristiu",male,25.0,0,0,349203,7.8958,,Southampton,Young adult
+796,False,2nd class,"Otter, Mr. Richard",male,39.0,0,0,28213,13.0,,Southampton,Adult
+797,True,1st class,"Leader, Dr. Alice (Farnham)",female,49.0,0,0,17465,25.9292,D17,Southampton,Adult
+798,True,3rd class,"Osman, Mrs. Mara",female,31.0,0,0,349244,8.6833,,Southampton,Adult
+799,False,3rd class,"Ibrahim Shawah, Mr. Yousseff",male,30.0,0,0,2685,7.2292,,Cherbourg,Adult
+800,False,3rd class,"Van Impe, Mrs. Jean Baptiste (Rosalie Paula Govaert)",female,30.0,1,1,345773,24.15,,Southampton,Adult
+801,False,2nd class,"Ponesell, Mr. Martin",male,34.0,0,0,250647,13.0,,Southampton,Adult
+802,True,2nd class,"Collyer, Mrs. Harvey (Charlotte Annie Tate)",female,31.0,1,1,C.A. 31921,26.25,,Southampton,Adult
+803,True,1st class,"Carter, Master. William Thornton II",male,11.0,1,2,113760,120.0,B96 B98,Southampton,Infant
+804,True,3rd class,"Thomas, Master. Assad Alexander",male,0.42,0,1,2625,8.5167,,Cherbourg,Infant
+805,True,3rd class,"Hedman, Mr. Oskar Arvid",male,27.0,0,0,347089,6.975,,Southampton,Young adult
+806,False,3rd class,"Johansson, Mr. Karl Johan",male,31.0,0,0,347063,7.775,,Southampton,Adult
+807,False,1st class,"Andrews, Mr. Thomas Jr",male,39.0,0,0,112050,0.0,A36,Southampton,Adult
+808,False,3rd class,"Pettersson, Miss. Ellen Natalia",female,18.0,0,0,347087,7.775,,Southampton,Young adult
+809,False,2nd class,"Meyer, Mr. August",male,39.0,0,0,248723,13.0,,Southampton,Adult
+810,True,1st class,"Chambers, Mrs. Norman Campbell (Bertha Griggs)",female,33.0,1,0,113806,53.1,E8,Southampton,Adult
+811,False,3rd class,"Alexander, Mr. William",male,26.0,0,0,3474,7.8875,,Southampton,Young adult
+812,False,3rd class,"Lester, Mr. James",male,39.0,0,0,A/4 48871,24.15,,Southampton,Adult
+813,False,2nd class,"Slemen, Mr. Richard James",male,35.0,0,0,28206,10.5,,Southampton,Adult
+814,False,3rd class,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,4,2,347082,31.275,,Southampton,Infant
+815,False,3rd class,"Tomlin, Mr. Ernest Portage",male,30.5,0,0,364499,8.05,,Southampton,Adult
+816,False,1st class,"Fry, Mr. Richard",male,40.0,0,0,112058,0.0,B102,Southampton,Adult
+817,False,3rd class,"Heininen, Miss. Wendla Maria",female,23.0,0,0,STON/O2. 3101290,7.925,,Southampton,Young adult
+818,False,2nd class,"Mallet, Mr. Albert",male,31.0,1,1,S.C./PARIS 2079,37.0042,,Cherbourg,Adult
+819,False,3rd class,"Holm, Mr. John Fredrik Alexander",male,43.0,0,0,C 7075,6.45,,Southampton,Adult
+820,False,3rd class,"Skoog, Master. Karl Thorsten",male,10.0,3,2,347088,27.9,,Southampton,Infant
+821,True,1st class,"Hays, Mrs. Charles Melville (Clara Jennings Gregg)",female,52.0,1,1,12749,93.5,B69,Southampton,Adult
+822,True,3rd class,"Lulic, Mr. Nikola",male,27.0,0,0,315098,8.6625,,Southampton,Young adult
+823,False,1st class,"Reuchlin, Jonkheer. John George",male,38.0,0,0,19972,0.0,,Southampton,Adult
+824,True,3rd class,"Moor, Mrs. (Beila)",female,27.0,0,1,392096,12.475,E121,Southampton,Young adult
+825,False,3rd class,"Panula, Master. Urho Abraham",male,2.0,4,1,3101295,39.6875,,Southampton,Infant
+826,False,3rd class,"Flynn, Mr. John",male,25.0,0,0,368323,6.95,,Queenstown,Young adult
+827,False,3rd class,"Lam, Mr. Len",male,25.0,0,0,1601,56.4958,,Southampton,Young adult
+828,True,2nd class,"Mallet, Master. Andre",male,1.0,0,2,S.C./PARIS 2079,37.0042,,Cherbourg,Infant
+829,True,3rd class,"McCormack, Mr. Thomas Joseph",male,25.0,0,0,367228,7.75,,Queenstown,Young adult
+830,True,1st class,"Stone, Mrs. George Nelson (Martha Evelyn)",female,62.0,0,0,113572,80.0,B28,Southampton,Elderly
+831,True,3rd class,"Yasbeck, Mrs. Antoni (Selini Alexander)",female,15.0,1,0,2659,14.4542,,Cherbourg,Teenager
+832,True,2nd class,"Richards, Master. George Sibley",male,0.83,1,1,29106,18.75,,Southampton,Infant
+833,False,3rd class,"Saad, Mr. Amin",male,25.0,0,0,2671,7.2292,,Cherbourg,Young adult
+834,False,3rd class,"Augustsson, Mr. Albert",male,23.0,0,0,347468,7.8542,,Southampton,Young adult
+835,False,3rd class,"Allum, Mr. Owen George",male,18.0,0,0,2223,8.3,,Southampton,Young adult
+836,True,1st class,"Compton, Miss. Sara Rebecca",female,39.0,1,1,PC 17756,83.1583,E49,Cherbourg,Adult
+837,False,3rd class,"Pasic, Mr. Jakob",male,21.0,0,0,315097,8.6625,,Southampton,Young adult
+838,False,3rd class,"Sirota, Mr. Maurice",male,25.0,0,0,392092,8.05,,Southampton,Young adult
+839,True,3rd class,"Chip, Mr. Chang",male,32.0,0,0,1601,56.4958,,Southampton,Adult
+840,True,1st class,"Marechal, Mr. Pierre",male,40.0,0,0,11774,29.7,C47,Cherbourg,Adult
+841,False,3rd class,"Alhomaki, Mr. Ilmari Rudolf",male,20.0,0,0,SOTON/O2 3101287,7.925,,Southampton,Young adult
+842,False,2nd class,"Mudd, Mr. Thomas Charles",male,16.0,0,0,S.O./P.P. 3,10.5,,Southampton,Teenager
+843,True,1st class,"Serepeca, Miss. Augusta",female,30.0,0,0,113798,31.0,,Cherbourg,Adult
+844,False,3rd class,"Lemberopolous, Mr. Peter L",male,34.5,0,0,2683,6.4375,,Cherbourg,Adult
+845,False,3rd class,"Culumovic, Mr. Jeso",male,17.0,0,0,315090,8.6625,,Southampton,Teenager
+846,False,3rd class,"Abbing, Mr. Anthony",male,42.0,0,0,C.A. 5547,7.55,,Southampton,Adult
+847,False,3rd class,"Sage, Mr. Douglas Bullen",male,25.0,8,2,CA. 2343,69.55,,Southampton,Young adult
+848,False,3rd class,"Markoff, Mr. Marin",male,35.0,0,0,349213,7.8958,,Cherbourg,Adult
+849,False,2nd class,"Harper, Rev. John",male,28.0,0,1,248727,33.0,,Southampton,Young adult
+850,True,1st class,"Goldenberg, Mrs. Samuel L (Edwiga Grabowska)",female,35.0,1,0,17453,89.1042,C92,Cherbourg,Adult
+851,False,3rd class,"Andersson, Master. Sigvard Harald Elias",male,4.0,4,2,347082,31.275,,Southampton,Infant
+852,False,3rd class,"Svensson, Mr. Johan",male,74.0,0,0,347060,7.775,,Southampton,Elderly
+853,False,3rd class,"Boulos, Miss. Nourelain",female,9.0,1,1,2678,15.2458,,Cherbourg,Infant
+854,True,1st class,"Lines, Miss. Mary Conover",female,16.0,0,1,PC 17592,39.4,D28,Southampton,Teenager
+855,False,2nd class,"Carter, Mrs. Ernest Courtenay (Lilian Hughes)",female,44.0,1,0,244252,26.0,,Southampton,Adult
+856,True,3rd class,"Aks, Mrs. Sam (Leah Rosen)",female,18.0,0,1,392091,9.35,,Southampton,Young adult
+857,True,1st class,"Wick, Mrs. George Dennick (Mary Hitchcock)",female,45.0,1,1,36928,164.8667,,Southampton,Adult
+858,True,1st class,"Daly, Mr. Peter Denis ",male,51.0,0,0,113055,26.55,E17,Southampton,Adult
+859,True,3rd class,"Baclini, Mrs. Solomon (Latifa Qurban)",female,24.0,0,3,2666,19.2583,,Cherbourg,Young adult
+860,False,3rd class,"Razi, Mr. Raihed",male,25.0,0,0,2629,7.2292,,Cherbourg,Young adult
+861,False,3rd class,"Hansen, Mr. Claus Peter",male,41.0,2,0,350026,14.1083,,Southampton,Adult
+862,False,2nd class,"Giles, Mr. Frederick Edward",male,21.0,1,0,28134,11.5,,Southampton,Young adult
+863,True,1st class,"Swift, Mrs. Frederick Joel (Margaret Welles Barron)",female,48.0,0,0,17466,25.9292,D17,Southampton,Adult
+864,False,3rd class,"Sage, Miss. Dorothy Edith ""Dolly""",female,21.5,8,2,CA. 2343,69.55,,Southampton,Young adult
+865,False,2nd class,"Gill, Mr. John William",male,24.0,0,0,233866,13.0,,Southampton,Young adult
+866,True,2nd class,"Bystrom, Mrs. (Karolina)",female,42.0,0,0,236852,13.0,,Southampton,Adult
+867,True,2nd class,"Duran y More, Miss. Asuncion",female,27.0,1,0,SC/PARIS 2149,13.8583,,Cherbourg,Young adult
+868,False,1st class,"Roebling, Mr. Washington Augustus II",male,31.0,0,0,PC 17590,50.4958,A24,Southampton,Adult
+869,False,3rd class,"van Melkebeke, Mr. Philemon",male,25.0,0,0,345777,9.5,,Southampton,Young adult
+870,True,3rd class,"Johnson, Master. Harold Theodor",male,4.0,1,1,347742,11.1333,,Southampton,Infant
+871,False,3rd class,"Balkic, Mr. Cerin",male,26.0,0,0,349248,7.8958,,Southampton,Young adult
+872,True,1st class,"Beckwith, Mrs. Richard Leonard (Sallie Monypeny)",female,47.0,1,1,11751,52.5542,D35,Southampton,Adult
+873,False,1st class,"Carlsson, Mr. Frans Olof",male,33.0,0,0,695,5.0,B51 B53 B55,Southampton,Adult
+874,False,3rd class,"Vander Cruyssen, Mr. Victor",male,47.0,0,0,345765,9.0,,Southampton,Adult
+875,True,2nd class,"Abelson, Mrs. Samuel (Hannah Wizosky)",female,28.0,1,0,P/PP 3381,24.0,,Cherbourg,Young adult
+876,True,3rd class,"Najib, Miss. Adele Kiamie ""Jane""",female,15.0,0,0,2667,7.225,,Cherbourg,Teenager
+877,False,3rd class,"Gustafsson, Mr. Alfred Ossian",male,20.0,0,0,7534,9.8458,,Southampton,Young adult
+878,False,3rd class,"Petroff, Mr. Nedelio",male,19.0,0,0,349212,7.8958,,Southampton,Young adult
+879,False,3rd class,"Laleff, Mr. Kristo",male,25.0,0,0,349217,7.8958,,Southampton,Young adult
+880,True,1st class,"Potter, Mrs. Thomas Jr (Lily Alexenia Wilson)",female,56.0,0,1,11767,83.1583,C50,Cherbourg,Adult
+881,True,2nd class,"Shelley, Mrs. William (Imanita Parrish Hall)",female,25.0,0,1,230433,26.0,,Southampton,Young adult
+882,False,3rd class,"Markun, Mr. Johann",male,33.0,0,0,349257,7.8958,,Southampton,Adult
+883,False,3rd class,"Dahlberg, Miss. Gerda Ulrika",female,22.0,0,0,7552,10.5167,,Southampton,Young adult
+884,False,2nd class,"Banfield, Mr. Frederick James",male,28.0,0,0,C.A./SOTON 34068,10.5,,Southampton,Young adult
+885,False,3rd class,"Sutehall, Mr. Henry Jr",male,25.0,0,0,SOTON/OQ 392076,7.05,,Southampton,Young adult
+886,False,3rd class,"Rice, Mrs. William (Margaret Norton)",female,39.0,0,5,382652,29.125,,Queenstown,Adult
+887,False,2nd class,"Montvila, Rev. Juozas",male,27.0,0,0,211536,13.0,,Southampton,Young adult
+888,True,1st class,"Graham, Miss. Margaret Edith",female,19.0,0,0,112053,30.0,B42,Southampton,Young adult
+889,False,3rd class,"Johnston, Miss. Catherine Helen ""Carrie""",female,21.5,1,2,W./C. 6607,23.45,,Southampton,Young adult
+890,True,1st class,"Behr, Mr. Karl Howell",male,26.0,0,0,111369,30.0,C148,Cherbourg,Young adult
+891,False,3rd class,"Dooley, Mr. Patrick",male,32.0,0,0,370376,7.75,,Queenstown,Adult
