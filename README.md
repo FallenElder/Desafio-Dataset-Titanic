@@ -50,24 +50,23 @@ Este projeto foi feito com intuito de ser um teste e desafio, para desenvolver u
 - Matriz de confusão
 
 ### Random Forest
-
-![AUC_RF](assets/avaliacoes_modelos/Redimensionado/RF_AUC.png) ![CM_RF](assets/avaliacoes_modelos/Redimensionado/RF_confusion_matrix.png)
+![AUC_RF](assets/avaliacoes_modelos/Redimensionado/RF_AUC.png) <img src="assets/avaliacoes_modelos/Redimensionado/RF_confusion_matrix.png" alt="CM_RF" width="350" height="300"/>
 
 ### Logistic Regression
 
-![AUC_LR](assets/avaliacoes_modelos/Redimensionado/LR_AUC.png) ![CM_LR](assets/avaliacoes_modelos/Redimensionado/LR_confusion_matrix.png)
+![AUC_LR](assets/avaliacoes_modelos/Redimensionado/LR_AUC.png) <img src="assets/avaliacoes_modelos/Redimensionado/LR_confusion_matrix.png" alt="CM_LR" width="350" height="300"/>
 
 ### GaussianNB
 
-![AUC_GaussianNB](assets/avaliacoes_modelos/Redimensionado/GNB_AUC.png) ![CM_GaussianNB](assets/avaliacoes_modelos/Redimensionado/GNB_confusion_matrix.png)
+![AUC_GaussianNB](assets/avaliacoes_modelos/Redimensionado/GNB_AUC.png) <img src="assets/avaliacoes_modelos/Redimensionado/GNB_confusion_matrix.png" alt="CM_GaussianNB" width="350" height="300"/>
 
 ### KNeighbors
 
-![AUC_KN](assets/avaliacoes_modelos/Redimensionado/KN_AUC.png) ![CM_KN](assets/avaliacoes_modelos/Redimensionado/KN_confusion_matrix.png)
+![AUC_KN](assets/avaliacoes_modelos/Redimensionado/KN_AUC.png) <img src="assets/avaliacoes_modelos/Redimensionado/KN_confusion_matrix.png" alt="CM_KN" width="350" height="300"/>
 
 ### SVM/LinearSVC
 
-![AUC_LSVC](assets/avaliacoes_modelos/Redimensionado/LSVC_AUC.png) ![CM_LSVC](assets/avaliacoes_modelos/Redimensionado/LSVC_confusion_matrix.png)
+![AUC_LSVC](assets/avaliacoes_modelos/Redimensionado/LSVC_AUC.png) <img src="assets/avaliacoes_modelos/Redimensionado/LSVC_confusion_matrix.png" alt="CM_LSVC" width="350" height="300"/>
 
 ### Gráficos Finais
 
